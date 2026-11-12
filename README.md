@@ -22,7 +22,7 @@ docs/                    GitHub Pages 发布目录
   index.html             目录主页（单文件，约 3 MB，无任何图片引用）
   .nojekyll              关掉 Jekyll，避免下划线文件被吃掉
 data/
-  inventory.json         扫描结果：专辑 / 碟 / 轨 / 时长 / 采样规格 / CUE / 镜像
+  inventory.json         扫描结果（本机文件，不入库）
   knowledge/*.json       讲解内容（按作曲家分组，人写或模型写）
   state.json             版本号与每张专辑的指纹（增量判断用）
 tools/

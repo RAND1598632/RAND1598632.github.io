@@ -1,0 +1,601 @@
+{
+ "_note": "搜索别名表。works 的键是作品 id（见 _data/coverage.md 或各分组 json），albums 的键是专辑文件夹名。build.py 会自动再派生一批（贝九 / 贝5 / op67 / k334 / symphony 9 之类），这里只补「自动规则猜不到」的绰号与俗称。",
+ "works": {
+  "beethoven-sym3": [
+   "英雄",
+   "英雄交响曲",
+   "Eroica",
+   "贝三"
+  ],
+  "beethoven-sym5": [
+   "命运",
+   "命运交响曲",
+   "贝五",
+   "贝五交",
+   "Fate",
+   "贝多芬第五",
+   "第五交响曲"
+  ],
+  "beethoven-sym6": [
+   "田园",
+   "田园交响曲",
+   "贝六",
+   "Pastoral",
+   "贝多芬第六"
+  ],
+  "beethoven-sym7": [
+   "贝七",
+   "酒神的舞蹈",
+   "第七交响曲"
+  ],
+  "beethoven-sym9": [
+   "贝九",
+   "第九交响曲",
+   "合唱交响曲",
+   "欢乐颂",
+   "Ode to Joy",
+   "Choral",
+   "贝多芬第九",
+   "自由颂"
+  ],
+  "beethoven-pc1": [
+   "贝一钢协",
+   "第一钢琴协奏曲"
+  ],
+  "beethoven-pc2": [
+   "贝二钢协"
+  ],
+  "beethoven-pc3": [
+   "贝三钢协"
+  ],
+  "beethoven-pc4": [
+   "贝四钢协"
+  ],
+  "beethoven-pc5": [
+   "皇帝",
+   "皇帝协奏曲",
+   "贝五钢协",
+   "Emperor",
+   "贝多芬第五钢琴协奏曲",
+   "第五钢琴协奏曲"
+  ],
+  "beethoven-piano-sonata-8": [
+   "悲怆",
+   "悲怆奏鸣曲",
+   "Pathétique",
+   "贝八奏"
+  ],
+  "beethoven-piano-sonata-14": [
+   "月光",
+   "月光奏鸣曲",
+   "Moonlight",
+   "贝十四奏",
+   "升c小调奏鸣曲"
+  ],
+  "beethoven-piano-sonata-17": [
+   "暴风雨",
+   "暴风雨奏鸣曲",
+   "Tempest"
+  ],
+  "beethoven-piano-sonata-21": [
+   "黎明",
+   "华尔斯坦",
+   "Waldstein",
+   "黎明奏鸣曲"
+  ],
+  "beethoven-piano-sonata-23": [
+   "热情",
+   "热情奏鸣曲",
+   "Appassionata"
+  ],
+  "beethoven-piano-sonata-26": [
+   "告别",
+   "告别奏鸣曲",
+   "Les Adieux"
+  ],
+  "beethoven-piano-sonata-29": [
+   "槌子键",
+   "槌子键琴",
+   "Hammerklavier",
+   "锤子键"
+  ],
+  "beethoven-piano-sonata-32": [
+   "贝三十二奏",
+   "op111",
+   "最后三首奏鸣曲"
+  ],
+  "beethoven-piano-sonata-15": [
+   "田园奏鸣曲"
+  ],
+  "beethoven-piano-sonata-12": [
+   "葬礼进行曲奏鸣曲"
+  ],
+  "beethoven-piano-sonata-25": [
+   "布谷鸟奏鸣曲"
+  ],
+  "mozart-k525": [
+   "小夜曲",
+   "一首小夜曲",
+   "Eine kleine Nachtmusik",
+   "Nachtmusik",
+   "莫扎特小夜曲",
+   "k525"
+  ],
+  "mozart-k334": [
+   "k334",
+   "kv334",
+   "嬉游曲",
+   "哈夫纳嬉游曲",
+   "第17号嬉游曲"
+  ],
+  "mozart-k320": [
+   "邮号",
+   "邮号小夜曲",
+   "Posthorn",
+   "k320"
+  ],
+  "mozart-k250": [
+   "哈夫纳",
+   "哈夫纳小夜曲",
+   "Haffner",
+   "k250"
+  ],
+  "mozart-k136": [
+   "k136",
+   "嬉游曲k136"
+  ],
+  "mozart-k137": [
+   "k137"
+  ],
+  "mozart-k138": [
+   "k138"
+  ],
+  "mozart-k239": [
+   "夜曲",
+   "Serenata Notturna",
+   "k239"
+  ],
+  "mozart-k522": [
+   "音乐玩笑",
+   "Ein musikalischer Spaß",
+   "k522"
+  ],
+  "mozart-sym40": [
+   "莫四十",
+   "g小调交响曲",
+   "第40交响曲"
+  ],
+  "mozart-sym41": [
+   "朱庇特",
+   "Jupiter",
+   "莫四十一",
+   "第41交响曲"
+  ],
+  "mozart-sym35": [
+   "哈夫纳交响曲",
+   "Haffner"
+  ],
+  "mozart-sym38": [
+   "布拉格",
+   "Prague"
+  ],
+  "schubert-d957": [
+   "天鹅之歌",
+   "Schwanengesang",
+   "d957",
+   "舒伯特天鹅之歌"
+  ],
+  "shostakovich-sym5": [
+   "肖五",
+   "第五交响曲",
+   "肖斯塔科维奇第五"
+  ],
+  "shostakovich-sym7": [
+   "肖七",
+   "列宁格勒",
+   "Leningrad",
+   "列宁格勒交响曲"
+  ],
+  "shostakovich-sym8": [
+   "肖八"
+  ],
+  "shostakovich-sym9": [
+   "肖九"
+  ],
+  "shostakovich-sym10": [
+   "肖十",
+   "斯大林肖像"
+  ],
+  "shostakovich-sym11": [
+   "肖十一",
+   "1905年",
+   "1905"
+  ],
+  "shostakovich-sym12": [
+   "肖十二",
+   "1917年"
+  ],
+  "shostakovich-sym13": [
+   "肖十三",
+   "巴比雅尔",
+   "巴比 Yar",
+   "Babiy Yar"
+  ],
+  "shostakovich-sym14": [
+   "肖十四"
+  ],
+  "shostakovich-sym15": [
+   "肖十五"
+  ],
+  "shostakovich-waltz-2": [
+   "第二圆舞曲",
+   "爵士圆舞曲",
+   "Waltz 2",
+   "Waltz No.2",
+   "抒情圆舞曲"
+  ],
+  "shostakovich-jazz-suite-1": [
+   "爵士组曲",
+   "Jazz Suite",
+   "第一爵士组曲"
+  ],
+  "shostakovich-jazz-suite-2": [
+   "第二爵士组曲",
+   "Jazz Suite 2",
+   "为杂耍剧团而作的组曲"
+  ],
+  "shostakovich-chamber-symphony-op110a": [
+   "室内交响曲",
+   "op110a",
+   "第八四重奏改编"
+  ],
+  "shostakovich-piano-concerto-1": [
+   "肖一钢协",
+   "钢琴小号协奏曲"
+  ],
+  "strauss-r-zarathustra": [
+   "查拉图斯特拉",
+   "查拉图斯特拉如是说",
+   "2001太空漫游",
+   "日出",
+   "Also sprach Zarathustra",
+   "Zarathustra"
+  ],
+  "strauss-r-donjuan": [
+   "唐璜",
+   "Don Juan"
+  ],
+  "strauss-r-till": [
+   "蒂尔",
+   "蒂尔的恶作剧",
+   "Till Eulenspiegel"
+  ],
+  "strauss2-blue-danube": [
+   "蓝色多瑙河",
+   "多瑙河",
+   "Blue Danube",
+   "An der schönen blauen Donau",
+   "施特劳斯圆舞曲"
+  ],
+  "strauss2-kaiserwalzer": [
+   "皇帝圆舞曲",
+   "Kaiser-Walzer",
+   "Kaiserwalzer"
+  ],
+  "strauss2-fruhlingsstimmen": [
+   "春之声",
+   "春之声圆舞曲",
+   "Frühlingsstimmen"
+  ],
+  "strauss2-tritschtratsch": [
+   "闲聊波尔卡",
+   "Tritsch-Tratsch"
+  ],
+  "strauss2-donnerblitz": [
+   "雷鸣电闪",
+   "电闪雷鸣",
+   "Unter Donner und Blitz"
+  ],
+  "strauss2-aufderjagd": [
+   "狩猎波尔卡",
+   "Auf der Jagd"
+  ],
+  "strauss2-wienerwald": [
+   "维也纳森林",
+   "维也纳森林的故事",
+   "G'schichten aus dem Wienerwald"
+  ],
+  "strauss2-wienerblut": [
+   "维也纳血统",
+   "Wiener Blut"
+  ],
+  "strauss2-rosen": [
+   "南国玫瑰",
+   "Rosen aus dem Süden"
+  ],
+  "strauss2-kunstlerleben": [
+   "艺术家生涯",
+   "Künstlerleben"
+  ],
+  "strauss2-tausendundeine": [
+   "一千零一夜",
+   "Tausend und eine Nacht"
+  ],
+  "strauss2-pizzicato": [
+   "拨弦波尔卡",
+   "Pizzicato-Polka"
+  ],
+  "strauss2-perpetuum": [
+   "无穷动",
+   "Perpetuum Mobile"
+  ],
+  "strauss2-fledermaus-ouverture": [
+   "蝙蝠序曲",
+   "蝙蝠",
+   "Fledermaus"
+  ],
+  "tchaikovsky-pc1": [
+   "柴一",
+   "柴一钢协",
+   "第一钢琴协奏曲",
+   "柴可夫斯基第一"
+  ],
+  "tchaikovsky-1812": [
+   "1812序曲",
+   "一八一二",
+   "1812 Overture",
+   "炮声"
+  ],
+  "tchaikovsky-swan-lake-suite": [
+   "天鹅湖",
+   "Swan Lake",
+   "四小天鹅"
+  ],
+  "rachmaninoff-pc2": [
+   "拉二",
+   "拉二钢协",
+   "第二钢琴协奏曲",
+   "拉赫玛尼诺夫第二"
+  ],
+  "rachmaninoff-pc3": [
+   "拉三",
+   "拉三钢协"
+  ],
+  "rachmaninoff-symphonic-dances": [
+   "交响舞曲",
+   "Symphonic Dances"
+  ],
+  "dvorak-sym9": [
+   "新世界",
+   "自新世界",
+   "德九",
+   "New World",
+   "德沃夏克第九"
+  ],
+  "dvorak-sym6": [
+   "德六"
+  ],
+  "smetana-vltava": [
+   "沃尔塔瓦",
+   "沃尔塔瓦河",
+   "Vltava",
+   "我的祖国"
+  ],
+  "holst-planets": [
+   "行星",
+   "行星组曲",
+   "The Planets",
+   "木星",
+   "Jupiter",
+   "火星"
+  ],
+  "vivaldi-four-seasons": [
+   "四季",
+   "Four Seasons",
+   "春",
+   "夏",
+   "秋",
+   "冬",
+   "Le quattro stagioni"
+  ],
+  "vivaldi-op8-10-la-caccia": [
+   "狩猎协奏曲",
+   "la caccia",
+   "RV362"
+  ],
+  "khach-gayaneh": [
+   "加雅涅",
+   "马刀舞曲",
+   "Sabre Dance",
+   "Gayaneh"
+  ],
+  "khach-spartacus": [
+   "斯巴达克斯",
+   "斯巴达克",
+   "Spartacus",
+   "柔板",
+   "Adagio"
+  ],
+  "khach-sym2": [
+   "哈恰图良第二",
+   "钟声交响曲"
+  ],
+  "khach-piano-concerto": [
+   "哈恰图良钢协"
+  ],
+  "khach-violin-concerto": [
+   "哈恰图良小协"
+  ],
+  "liangzhu-concerto": [
+   "梁祝",
+   "梁山伯与祝英台",
+   "化蝶",
+   "俞丽拿",
+   "蝴蝶的爱情",
+   "Butterfly Lovers"
+  ],
+  "liangzhu-quartet": [
+   "梁祝四重奏",
+   "弦乐四重奏梁祝"
+  ],
+  "scriabin-poem-of-ecstasy": [
+   "狂喜之诗",
+   "Poème de l'extase",
+   "斯克里亚宾"
+  ],
+  "wagner-goetterdaemmerung": [
+   "诸神的黄昏",
+   "Götterdämmerung"
+  ],
+  "rossini-barbiere": [
+   "理发师",
+   "塞维利亚理发师",
+   "Barber of Seville"
+  ],
+  "rossini-guillaume-tell": [
+   "威廉退尔",
+   "William Tell"
+  ],
+  "suppe-dichter-und-bauer": [
+   "诗人与农夫",
+   "Dichter und Bauer"
+  ],
+  "suppe-leichte-kavallerie": [
+   "轻骑兵",
+   "Leichte Kavallerie"
+  ],
+  "tchaikovsky-nutcracker-waltz-flowers": [
+   "胡桃夹子",
+   "Nutcracker",
+   "糖梅仙子",
+   "花之圆舞曲"
+  ],
+  "wagner-rheingold": [
+   "莱茵的黄金",
+   "Rheingold",
+   "莱茵"
+  ],
+  "wagner-walkuere": [
+   "女武神",
+   "Walküre",
+   "女武神的骑行"
+  ],
+  "wagner-siegfried": [
+   "齐格弗里德",
+   "Siegfried"
+  ],
+  "rossini-gazza-ladra": [
+   "鹊贼",
+   "贼鹊",
+   "Gazza Ladra"
+  ],
+  "rossini-semiramide": [
+   "赛密拉米德",
+   "Semiramide"
+  ],
+  "strauss1-radetzky": [
+   "拉德茨基",
+   "拉德斯基",
+   "Radetzky"
+  ]
+ },
+ "albums": {
+  "_流行": [
+   "试音碟",
+   "发烧碟",
+   "发烧",
+   "惠威",
+   "蔡琴",
+   "张学友",
+   "Eagles",
+   "老鹰乐队",
+   "Hotel California",
+   "加州旅馆",
+   "Кино",
+   "КИНО",
+   "维克多崔",
+   "俄罗斯摇滚",
+   "低音测试",
+   "杀手鼓"
+  ],
+  "_俄语歌唱": [
+   "苏联歌曲",
+   "俄苏歌曲",
+   "红军合唱团",
+   "亚历山德罗夫",
+   "卡林卡",
+   "喀秋莎",
+   "神圣的战争",
+   "卫国战争",
+   "俄罗斯民歌",
+   "顿河",
+   "哥萨克",
+   "Боже Царя храни"
+  ],
+  "[2020] PolyGram 50th Anniversary - 群星 古典篇 [16-44]": [
+   "宝丽金",
+   "宝丽金50",
+   "50周年",
+   "古典精选",
+   "名曲合集"
+  ],
+  "Beethoven - Complete Symphonies (BPO) - Karajan [DG 1963 SACD]": [
+   "红卡",
+   "卡拉扬红卡",
+   "1963全集",
+   "贝多芬交响曲全集"
+  ],
+  "Strauss II - Neujahrskonzert Wien 1987 (VPO) - Karajan [2025 SACD]": [
+   "新年音乐会",
+   "维新",
+   "Neujahrskonzert",
+   "1987新年音乐会"
+  ],
+  "Furtwängler - 1942-1945 War Recordings (4CD) [Tahra]": [
+   "富特文格勒",
+   "战时录音",
+   "二战录音",
+   "Tahra",
+   "历史录音"
+  ],
+  "Beethoven - Symphony 9 (BPO) - Furtwängler [1942-04-19]": [
+   "1942贝九",
+   "富特文格勒贝九",
+   "黑色贝九"
+  ],
+  "[中唱上海 HCD-0795]梁祝(珍藏版) 2CD【小提琴协奏曲《梁山伯与祝英台》创作50周年纪念】": [
+   "梁祝",
+   "梁祝珍藏版",
+   "中唱",
+   "俞丽拿",
+   "化蝶"
+  ],
+  "[_DVD]": [
+   "DVD",
+   "影像",
+   "录像",
+   "视频"
+  ],
+  "[_解释]": [
+   "说明",
+   "文档",
+   "小夜曲说明"
+  ],
+  "Strauss II - The Complete Orchestral Edition (52CD) [Marco Polo 2003]": [
+   "施特劳斯全集",
+   "52CD",
+   "Marco Polo",
+   "马可勃罗"
+  ],
+  "Shostakovich - The Symphonies (Concertgebouw) - Haitink": [
+   "海廷克肖氏全集",
+   "音乐厅版",
+   "RCO"
+  ],
+  "Shostakovich - Complete Symphonies (LPO) - Haitink [12CD]": [
+   "海廷克肖氏全集",
+   "LPO版",
+   "12CD"
+  ]
+ }
+}

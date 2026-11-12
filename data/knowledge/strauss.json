@@ -1,0 +1,583 @@
+{
+  "group": "strauss",
+  "albums": [
+    {
+      "name": "Strauss - Also sprach Zarathustra & Don Juan (BPO) - Karajan",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "era": "romantic",
+      "performer": "柏林爱乐乐团 Berliner Philharmoniker；赫伯特·冯·卡拉扬 Herbert von Karajan；小提琴独奏 Michel Schwalbé",
+      "recorded": "约1973（DG，柏林）",
+      "released": "1970 年代 DG 原版；16bit/44.1kHz，未标再版年份",
+      "label": "DG",
+      "edition": "DG 原版内容；16bit/44.1kHz 立体声，10 轨，无 hi-res 母带",
+      "oneliner": "「日出」的标杆：柏林爱乐铜管从极弱推到爆棚，卡拉扬的参考演绎。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "1973 年卡拉扬与柏林爱乐的 DG 版《查拉图斯特拉如是说》，同一张补齐《唐璜》，十轨。乐团首席米歇尔·施瓦尔贝在「舞之歌」里的独奏是这一版的名片：音色亮而不薄，和乐队对答时层次分明。卡拉扬把九个段落当一条弧线铺，段与段之间几乎不留缝，听下来是一整首音诗，不是九支小曲。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "16bit/44.1kHz，曲目顺序就是 DG 原版 CD：九段《查拉图斯特拉》加一首《唐璜》，没有额外补白。当年 DG 的 ADD 转制偏亮、低频收得紧，今天听高频会有点硬。若在意这一点，同库里那张日本环球的 SHM-SACD（UCGG 9067）是更从容的选择。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "「日出」开头是测验系统的老材料：管风琴低音、定音鼓、四支小号加三支长号，从 pp 一路推到 ff。卡拉扬这一版的强奏不粗糙，铜管的金色是被弦乐与管风琴托住的。真正见功力的是「关于伟大的渴望」：一层一层加上来，不靠突然加力。「夜游者之歌」的结尾收得很慢、很悬，不肯给一个痛快答案。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "演绎本身是这一曲的教科书版本，适合第一次认真听《查拉图斯特拉》的人，也适合拿来试低频与动态。短板只在规格：16/44.1，同库已有同一录音的 SACD 版本，所以这份更像日常随手听的拷贝。"
+        }
+      ],
+      "rating": 4,
+      "tags": ["参考级演绎", "可听入门", "同曲首选"]
+    },
+    {
+      "name": "Strauss - Also Sprach Zarathustra (BPO) - Karajan [SACD]",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "era": "romantic",
+      "performer": "柏林爱乐乐团 Berliner Philharmoniker；赫伯特·冯·卡拉扬 Herbert von Karajan；小提琴独奏 Michel Schwalbé",
+      "recorded": "1973（DG，柏林）",
+      "released": "2010 年代（日本环球重制，编号 UCGG 9067）",
+      "label": "DG / Universal Japan",
+      "edition": "日本环球 SHM-SACD 重制（UCGG 9067），DSD 直转",
+      "oneliner": "同一场 1973 年录音的 SACD 版：低频与铜管光泽比 CD 完整得多。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "与同库那份 16/44 是同一个 1973 年录音：卡拉扬指挥柏林爱乐，首席施瓦尔贝，九段连续演奏不拆开。这张 SACD 只收《查拉图斯特拉如是说》一首，没有《唐璜》补白，所以九段就是全部内容。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "日本环球把 DG 的模拟母带做成 SHM-SACD（UCGG 9067），DSD 直转，不经 PCM 中转。这张碟只有 SACD 层，没有 CD 层，普通 CD 机放不了。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "最先听出来的是「日出」的低频：管风琴下潜更深，定音鼓有实体感，铜管在高潮处不再发毛。第二段「关于后世界的人」弱奏底噪更低，柏林爱乐低音声部一层层的厚度听得见。速度、句法与 CD 版完全一致，差别只在信息量与顺滑度——这也是 SACD 重制该有的样子。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "同库里查拉图斯特拉有三份卡拉扬，这份是音质最好的 DG 柏林版：认真听、试系统就开它，随手听用 16/44 那份。"
+        }
+      ],
+      "rating": 5,
+      "tags": ["参考级演绎", "发烧录音", "同曲首选"]
+    },
+    {
+      "name": "Strauss - Also Sprach Zarathustra (Decca) - Karajan [SACD]",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "era": "romantic",
+      "performer": "维也纳爱乐乐团 Wiener Philharmoniker；赫伯特·冯·卡拉扬 Herbert von Karajan",
+      "recorded": "1959（查拉图斯特拉）、1960（蒂尔、七纱舞、唐璜），维也纳 Sofiensaal",
+      "released": "日本环球 Decca SACD 重制（UCGD-7024），发行年未标注",
+      "label": "Decca",
+      "edition": "日本环球 Decca SACD（UCGD-7024），12 轨",
+      "oneliner": "卡拉扬的另一版：维也纳爱乐的透明与更快的速度，Decca 厅堂感。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "1959 年卡拉扬在维也纳 Sofiensaal 与维也纳爱乐录下《查拉图斯特拉如是说》，1960 年补录《蒂尔·奥伊伦施皮格格的恶作剧》、《莎乐美》的七纱舞和《唐璜》，凑成一张 12 轨专辑。注意乐团是维也纳爱乐，不是 DG 那版的柏林爱乐；两家的声音路子完全不同，别当成同一录音的不同转制。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "日本环球用 Decca 母带做的 SACD（UCGD-7024），两声道立体声，12 段完整保留原 LP 曲目顺序。逐段核对 ISRC：多数标 1959、1960，与录音年份对得上。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "维也纳爱乐弦乐更薄更透，木管个性外露，铜管没有柏林那种压倒性厚度，换来的是每一层都听得见。速度明显更快：「康复者」和「舞之歌」推进得急，整曲更像叙事而不是纪念碑。Sofiensaal 的声场偏宽，低频不夸张，管风琴出现时是往两边铺开的。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "和 DG 柏林版是两条路：要威压与金色铜管听 DG，要透明、要维也纳风味和更利落的句法听这张。1959 年模拟母带毕竟有限，弱奏段底噪可闻，重制也救不回来。"
+        }
+      ],
+      "rating": 4,
+      "tags": ["参考级演绎", "历史文献", "发烧录音"]
+    },
+    {
+      "name": "Strauss Family - Waltzes, Polkas & Marches (VPO) - Boskovsky [1989]",
+      "composer": "施特劳斯家族 Strauss family（老约翰、小约翰、约瑟夫、爱德华）",
+      "era": "romantic",
+      "performer": "维也纳爱乐乐团 Wiener Philharmoniker；威利·波斯考夫斯基 Willi Boskovsky",
+      "recorded": "约1960–1970 年代（维也纳，Decca）",
+      "released": "1989（据标注；Decca 6CD 合辑）",
+      "label": "Decca",
+      "edition": "Decca「Strauss Gala」6CD 合辑，86 轨；16bit/44.1kHz",
+      "oneliner": "波斯考夫斯基的维也纳舞曲大全：六张 CD、八十六曲，一次听够。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "六张 CD、86 首，全是维也纳爱乐在波斯考夫斯基棒下录的施特劳斯家族舞曲：老约翰的《拉德茨基进行曲》《竞赛加洛普》，小约翰的《蓝色多瑙河》《维也纳森林的故事》，约瑟夫的《天体之声》《铁匠波尔卡》《谵妄》，爱德华的《电报》《女性之心》都在。乐队是维也纳爱乐本团，不是拼盘性质的轻音乐队。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "Decca 把这批录音凑成六张一套，按「Strauss Gala」分组（蓝色多瑙河、维也纳森林、维也纳血统、南国玫瑰等），每张约十四段。16/44.1 的规格，声底保留着 Decca 模拟录音那种厚实的中频。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "波斯考夫斯基自己是小提琴家，也是施特劳斯家族的演奏权威——1955 到 1979 年他几乎年年执棒维也纳新年音乐会。他棒下的圆舞曲不追求交响化的厚重，第二拍略早、句尾带一点拖腔，是地道的维也纳跳法；波尔卡干净爽利，速度偏快，装饰音都交代清楚。和卡拉扬把圆舞曲当交响诗处理的路子正好互补。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "想系统听施特劳斯家族舞曲，这一套比任何单张精选都实在。缺点是合辑式排布：同类曲子散在各盘，找某一首得翻；个别早期录音的高频略薄。适合当资料库兼日常背景，也适合入门时一次认全曲名。"
+        }
+      ],
+      "rating": 4,
+      "tags": ["参考级演绎", "可听入门"]
+    },
+    {
+      "name": "Strauss II - an der schönen blauen Donau (BPO) - Karajan [1982]",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "era": "romantic",
+      "performer": "柏林爱乐乐团 Berliner Philharmoniker；赫伯特·冯·卡拉扬 Herbert von Karajan",
+      "recorded": "约1981–82（DG，柏林）",
+      "released": "1982（DG 原版）",
+      "label": "DG",
+      "edition": "DG 原版内容；16bit/44.1kHz，8 轨",
+      "oneliner": "卡拉扬的柏林施特劳斯：厚弦乐、慢圆舞曲，八首最讨喜的曲子。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "八首曲目，柏林爱乐在卡拉扬棒下：圆舞曲三首（蓝色多瑙河、加速度、艺术家生涯），波尔卡两首（轻如鸿毛、雷鸣电闪），外加《蝙蝠》序曲、波斯进行曲和匈牙利快速波尔卡《Eljen a Magyar》。都是他 1980 年代 DG 施特劳斯录音里的常备曲，等于一张他自己的精选集。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "DG 数字录音，16/44.1。没有 hi-res 版本可换，规格就是当年 CD 的水平；母带既是数字的，也就没有更高的模拟层可回溯。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "这是「交响化」的施特劳斯：弦乐人数足、揉弦浓，圆舞曲速度偏慢，《蓝色多瑙河》的引子像序奏而不是舞曲。好处是气势与色彩，《雷鸣电闪》的鼓与铜管很过瘾；代价是弹性速度用得重，维也纳人听了会觉得不够轻、不够「跳」。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "适合喜欢厚声底、想听大乐队版施特劳斯的人；要地道维也纳味还是找波斯考夫斯基。作为入门选集八首选得很准，缺点是总时长只有五十分钟，规格也普通。"
+        }
+      ],
+      "rating": 3,
+      "tags": ["可听入门"]
+    },
+    {
+      "name": "Strauss II - Best of Waltzes & Polkas (VPO) [DG 459 730-2]",
+      "composer": "小约翰·施特劳斯 Johann Strauss II（含老约翰一首）",
+      "era": "romantic",
+      "performer": "维也纳爱乐乐团 Wiener Philharmoniker（封底未标注指挥）",
+      "recorded": "不同时期录音的合集，多数为现场（据封底 LIVE RECORDINGS 标注）",
+      "released": "1998（DG 459 730-2，2CD 合集，德国印制）",
+      "label": "DG",
+      "edition": "DG「Best of」系列 2CD（459 730-2；单盘 459 731-2 / 459 732-2），16bit/44.1kHz，24 轨",
+      "oneliner": "DG 1998 年的两 CD 精选：现场录音为主，二十四首一次听全。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "维也纳爱乐的两张精选，24 首，第一张七十六分钟、第二张六十九分钟。封底明确标了「LIVE RECORDINGS (except *)」：只有《艺术家生涯》《波斯进行曲》《南国玫瑰》三首是录音室版本，其余都来自现场。指挥没有标注，只能从乐团的音色判断是 DG 自家的维也纳现场录音。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "1998 年 PolyGram 时期的合集，盘面同时标着 ADD 与 DDD、STEREO 与 MONO，说明素材横跨模拟与数字两个时代，来源不统一。16/44.1，封套与内页齐全，资料算齐，但没有做 hi-res 重制。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "挑的是最讨喜的一批：蓝色多瑙河、皇帝圆舞曲、春之声、闲聊波尔卡（带维也纳童声合唱团）、拨弦波尔卡、拉德茨基进行曲都在。现场那几首有观众声和厅堂混响，录音室那三首更干净；拼在一张盘上，声底并不统一，这是合集的通病。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "用途明确：想快速听全施特劳斯最有名的曲子，这两张最省事，编排也顺。它没有版本收藏价值，指挥信息缺失是硬伤；认真听某一首，还是回到单张全本。"
+        }
+      ],
+      "rating": 3,
+      "tags": ["可听入门"],
+      "track_notes": {
+        "An der schonen, blauen Donau op. 314 (Walzer)": "十又一分，速度从容，弦乐一进就是典型的 DG 维也纳厚声。",
+        "Kaiser-Walzer op. 437 (Walzer)": "十分钟以上的大结构，中段进行曲味最重，是这张 CD2 的重心。",
+        "Tritsch-Tratsch-Polka op. 214 (mit den Wiener Sangerknaben)": "带维也纳童声合唱团版，人声与乐队交替，比纯器乐版更热闹。",
+        "Pizzicato-Polka by Johann und Josef Strauss": "兄弟合作曲；全曲只用拨弦，录音里能听清每一下拨动的余地。",
+        "Die Fledermaus: Ouverture": "八分半的现场版，序曲里三个幕的主题轮着来，掌声没剪。",
+        "Fruhlingsstimmen op. 410 (Walzer)": "六分出头的器乐版，没有女高音，木管替人声唱旋律。",
+        "Rosen aus dem Suden op. 388 (Walzer)": "标了星号的录音室版，声底明显比前后几轨干净。",
+        "Radetzky-Marsch op. 228 (by Johann Strauss, Vater)": "老约翰的作品，按新年音乐会惯例带观众拍手。"
+      }
+    },
+    {
+      "name": "Strauss II - Blue Danube (VPO) - Boskovsky [Esoteric 2015 SACD]",
+      "composer": "小约翰·施特劳斯 Johann Strauss II（含约瑟夫、老约翰各一首）",
+      "era": "romantic",
+      "performer": "维也纳爱乐乐团 Wiener Philharmoniker；威利·波斯考夫斯基 Willi Boskovsky；齐特尔琴 Anton Karas；《蓝色多瑙河》维也纳国家歌剧院合唱团",
+      "recorded": "1957.12–1976.6（维也纳 Sofiensaal，跨多次录音）",
+      "released": "2015-09-15（Esoteric，编号 ESSD-90129）",
+      "label": "Decca / Esoteric",
+      "edition": "Esoteric ESSD-90129 双层 SACD（DSD 重制，日本压制）",
+      "oneliner": "Esoteric 重制的波斯考夫斯基施特劳斯音乐会：DSD、DR13，发烧向。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "十二轨的「Strauss Concert」：波斯考夫斯基指挥维也纳爱乐，录音跨了近二十年（1957 年 12 月到 1976 年 6 月，都在维也纳 Sofiensaal）。《维也纳森林的故事》里拉齐特尔琴的是安东·卡拉斯——电影《第三个人》主题的演奏者；第一轨《蓝色多瑙河》加了维也纳国家歌剧院合唱团的人声，最后一轨是纯乐队版。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "Esoteric 2015 年 9 月的 ESSD-90129，双层 SACD（SACD 层加 CD 层），DSD 母带处理，压片在日本，总时长 81 分钟。整张 DR13，单段在 12 到 16 之间，动态没有被压过的痕迹——这在老录音重制里并不常见。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "Esoteric 的路子是把母带的空气感交出来：弦乐泛音、弱奏时的厅堂尾巴都留着，打击乐与铜管的瞬态比普通 Decca CD 版更脆。DR16 的《拨弦波尔卡》能听见拨弦之间的静场，最能说明问题。相对地它没有加厚、没有提亮，喜欢浓烈音色的会觉得偏素。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "同曲在库里有 1989 年那套六 CD 合辑，这份胜在音质：试系统、听 Sofiensaal 的厅堂就用它。十二轨里收了两次《蓝色多瑙河》（带合唱与不带合唱各一），编排上略有重复。"
+        }
+      ],
+      "rating": 5,
+      "tags": ["发烧录音", "参考级演绎", "同曲首选"]
+    },
+    {
+      "name": "Strauss II - Famous Waltzes (VPO) - Boskovsky [London 1987]",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "era": "romantic",
+      "performer": "维也纳爱乐乐团 Wiener Philharmoniker；威利·波斯考夫斯基 Willi Boskovsky",
+      "recorded": "约1960–70 年代（维也纳，Decca 母带）",
+      "released": "1987（London 厂牌再版）",
+      "label": "London（Decca 美国厂牌）",
+      "edition": "London 1987 年再版；16bit/44.1kHz，7 轨",
+      "oneliner": "七首最著名的施特劳斯圆舞曲，波斯考夫斯基的维也纳老派味道。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "七首圆舞曲：《蓝色多瑙河》《南国玫瑰》《春之声》《一千零一夜》《维也纳森林的故事》《皇帝圆舞曲》《酒、女人与歌》，都是维也纳爱乐与波斯考夫斯基。曲目就是一张标准的「名曲集」，没有波尔卡、没有进行曲，专心听圆舞曲正好。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "London 是 Decca 在美国的厂牌，1987 年这版属再版性质，母带仍是 Decca 的维也纳录音。16/44.1 的 CD 规格，七段对应原版曲目。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "和 2015 年 Esoteric 那张相比，这里少了重制的锐度，换来更柔、更靠后的老 Decca 声底。《一千零一夜》与《春之声》的段落转换处理得特别松，波斯考夫斯基不急着推高潮，舞曲的呼吸感都在。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "曲目挑得准，适合当七首圆舞曲的入门盘。规格只是 16/44.1，音质不如 Esoteric 那张；两张并存的话，这张更多是图方便。"
+        }
+      ],
+      "rating": 3,
+      "tags": ["可听入门"],
+      "track_notes": {
+        "An der schönen, blauen Donau": "全曲七分多钟，引子慢、尾声收得干脆，是这套里的定盘星。",
+        "Rosen aus dem Süden": "南国玫瑰，旋律来自轻歌剧《女王的绣花手帕》，木管最出彩。",
+        "Frühlingsstimmenwalzer": "纯器乐版，没有花腔女高音，单簧管替人声唱。",
+        "Tausendundeine Nacht": "一千零一夜，序奏里的小提琴独奏最见味道。",
+        "Geschichten aus dem Wiener Wald": "维也纳森林的故事，齐特尔琴段落这里用乐队其他声部替代。",
+        "Kaiserwalzer": "皇帝圆舞曲，进行曲式的开头，结尾一段特别庄重。",
+        "Wein, Weib und Gesang": "酒、女人与歌，原本是合唱圆舞曲，器乐版照样热闹。"
+      }
+    },
+    {
+      "name": "Strauss II - Neujahrskonzert Wien 1987 (VPO) - Karajan [2025 SACD]",
+      "composer": "小约翰·施特劳斯 Johann Strauss II（含约瑟夫、老约翰）",
+      "era": "romantic",
+      "performer": "维也纳爱乐乐团 Wiener Philharmoniker；赫伯特·冯·卡拉扬 Herbert von Karajan；凯瑟琳·芭特尔 Kathleen Battle（《春之声》）",
+      "recorded": "1987-01-01 现场，维也纳金色大厅（Musikverein）",
+      "released": "2025（Esoteric ESSG-90314，DG 授权）",
+      "label": "DG / Esoteric",
+      "edition": "Esoteric 2025 年 SACD 重制（ESSG-90314），DSD；12 轨 / 69 分钟",
+      "oneliner": "卡拉扬唯一一次新年音乐会：1987 年金色大厅现场，2025 年 SACD。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "1987 年 1 月 1 日，维也纳金色大厅。这是卡拉扬一生唯一一次执棒维也纳新年音乐会，也是他晚年少有的施特劳斯专场。十二轨：四首圆舞曲（天体之声、谵妄、春之声、蓝色多瑙河）、六首波尔卡，加《蝙蝠》序曲与《拉德茨基进行曲》。女高音凯瑟琳·芭特尔在《春之声》里唱人声。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "DG 1987 年的现场数字录音，Esoteric 于 2025 年做成 SACD（ESSG-90314），DSD 重制，日本压制。12 段、69:07；ISRC 为 DE 前缀、年份标 86/87，与 DG 原版一致。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "现场录音的特点是观众与厅堂都在：开场《蝙蝠》序曲一响就听得出金色大厅的长度，鼓掌没被剪掉。卡拉扬这晚速度偏稳，《蓝色多瑙河》用了 10 分 18 秒，比他的 DG 录音室版更松；《拉德茨基进行曲》按惯例带观众拍手，节奏被掌声顶着走。SACD 重制把弱奏细节与厅堂残响提了出来，动态没有额外压缩。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "价值在于那个时刻：卡拉扬的最后几年、唯一一次新年音乐会、芭特尔的《春之声》。想听现场的新年音乐会是什么样，这张比任何录音室版都直接。短板是 1987 年的数字录音本身偏硬，重制只能改善、不能重造。"
+        }
+      ],
+      "rating": 5,
+      "tags": ["历史文献", "参考级演绎", "发烧录音"]
+    },
+    {
+      "name": "Strauss II - The Complete Orchestral Edition (52CD) [Marco Polo 2003]",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "era": "romantic",
+      "performer": "多团多指挥：科希策捷克-斯洛伐克国家爱乐（Alfred Walter、Johannes Wildner、Oliver von Dohnanyi）、布拉迪斯拉发斯洛伐克广播交响（Michael Dittrich、Christian Pollack）、卡托维兹波兰国家爱乐、ORF 维也纳广播交响（Peter Guth）等",
+      "recorded": "约1990 年代至 2000 年代初（Marco Polo 逐卷录音出版）",
+      "released": "2003（Marco Polo，52CD 盒装）",
+      "label": "Marco Polo",
+      "edition": "Marco Polo 52CD 全集盒装，589 轨 / 约 58 小时；16bit/44.1kHz",
+      "oneliner": "小约翰·施特劳斯管弦乐全集：52 张 CD、589 轨的曲目资料库。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "52 张 CD、589 轨、约 58 小时，按作品号把小约翰·施特劳斯的管弦乐铺了一遍：圆舞曲、各类波尔卡、方阵舞、进行曲、加洛普，末尾若干张是轻歌剧序曲与选段。主力是科希策的捷克-斯洛伐克国家爱乐与布拉迪斯拉发斯洛伐克广播交响，指挥有 Alfred Walter、Johannes Wildner、Michael Dittrich 等。不是维也纳爱乐，是东欧广播乐团体系。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "Marco Polo 是 Naxos 旗下专做冷门曲目的厂牌，这套是逐卷出版后结集的全集盒装（标 2003）。16/44.1 的规格就是当年 CD 的水平，没有 hi-res；每张都带封面图，资料算是齐的。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "期待要摆正：乐团不是顶级，弦乐偏薄，铜管的维也纳味也淡，个别录音的厅堂感发干。它的价值不在音色而在覆盖面——很多曲子在别处根本找不到录音，比如作品号前一百里那些方阵舞和小波尔卡。Alfred Walter 那几卷最稳，Wildner 的节奏更利落。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "一句提醒：这是曲目对照用的资料库，不是精选集。查「作品号 335 是什么」、找冷门曲、比同一曲的早期版本，翻它最方便；想听《蓝色多瑙河》《皇帝圆舞曲》的最好演绎，回到波斯考夫斯基、卡拉扬那几张。占十几 GB，留着的理由是可检索性。"
+        }
+      ],
+      "rating": 4,
+      "tags": ["可听入门"],
+      "track_notes": {
+        "Kaiser-Walzer (Emperor Waltz), for orchestra, Op. 437 (RV 437)": "全集里的皇帝圆舞曲，速度中等，弦乐薄但句法干净。",
+        "Ägyptischer (Egyptian March), march for orchestra, Op. 335 (RV 335)": "1869 年施特劳斯去埃及演出时的副产品，东方色彩靠打击乐。",
+        "Persischer (Persian March), march for orchestra, Op. 289 (RV 289)": "波斯进行曲，只有一分多钟，全曲靠一个节奏型推。",
+        "Morgenblätter (Morning Papers), waltz for orchestra, Op. 279 (RV 279)": "晨报圆舞曲，与奥芬巴赫《晚班邮件》打对台的那一首。",
+        "Tritsch-Tratsch-Polka (Chit-Chat Polka), for orchestra, Op. 214 (RV 214)": "闲聊波尔卡，标题来自维也纳的流言蜚语。",
+        "Wiener Blut (Vienna Blood), waltz for orchestra, Op. 354 (RV 354)": "维也纳血统，旋律取自同名轻歌剧，是集大成的拼贴。",
+        "Auf der Jagd (Off to the Hunt), schnellpolka for orchestra, Op. 373 (RV 373)": "狩猎波尔卡，主题借自《罗马狂欢节》里的猎人合唱。",
+        "Künstler-Leben (Artists' Life), waltz for orchestra, Op. 316 (RV 316)": "艺术家生涯，1867 年狂欢节为艺术家协会舞会而写。",
+        "Pizzicato Polka for orchestra, Op. 234": "与约瑟夫合写的拨弦波尔卡；原版其实没有作品号，这里标的 234 是沿用旧标签。",
+        "Die Fledermaus (The Bat), overture to the operetta (RV 503-1)": "蝙蝠序曲，把三幕的好旋律串成一首序曲，本身却不在歌剧里。"
+      }
+    }
+  ],
+  "works": [
+    {
+      "id": "strauss-r-zarathustra",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "title": "查拉图斯特拉如是说 Op.30（Also sprach Zarathustra）",
+      "aka": ["Also sprach Zarathustra", "Thus Spoke Zarathustra", "查拉图斯特拉如是说", "交响诗《查拉图斯特拉如是说》"],
+      "match": ["zarathustra", "查拉图斯特拉", "sonnenaufgang|日出"],
+      "about": "1896 年 2 月到 8 月写成，同年 11 月 27 日在法兰克福由作曲家亲自指挥首演。副题写着「自由改编自尼采」，但施特劳斯并没有按原书章节走：他从尼采那里挑出几个概念，做成九个连续演奏、不停顿的段落。全曲的骨架是两个调的对峙——C 大调代表自然、肉体、此世，B 大调代表渴望、灵魂、彼岸；两个调从头斗到尾，最后谁也没赢。配器上他动用了三支长号、四支小号、管风琴和一整组打击乐，音量幅度从 ppp 拉到 fff。1968 年库布里克把开头的「日出」用在《2001 太空漫游》，那三音动机从此成了全世界都认得的音响。",
+      "movements": [
+        {"n": 1, "name": "Einleitung (Sonnenaufgang) 日出", "about": "小号三音动机配管风琴持续低音，从极弱起，逐层加入定音鼓、四支小号、三支长号，最后全乐队把 C 大调推成一块巨大的光。这是纯音响的渐强工程：靠的是层数，不是单纯加大音量。"},
+        {"n": 2, "name": "Von den Hinterweltlern 关于后世界的人", "about": "B 大调，弦乐与管风琴奏出缓慢的众赞歌式进行，末尾明确引用格里高利圣咏《信经》的音调。这是对「逃向彼岸的人」的描画：音乐很美，但马上被下面一段打断。"},
+        {"n": 3, "name": "Von der großen Sehnsucht 关于伟大的渴望", "about": "从 c 小调往 C 大调爬的长段渐强，弦乐自低音区一层层升起，是全曲最像浪漫派咏叹的一段。渴望在这里是向上的、未满足的，没有解决就滑进下一段。"},
+        {"n": 4, "name": "Von den Freuden und Leidenschaften 关于喜悦与激情", "about": "配器最密的一段：全体弦乐、竖琴琶音、铜管对切分音，主题与「渴望」同源却被撕成碎片。听点是狂喜与失控之间的那条线在哪里。"},
+        {"n": 5, "name": "Das Grablied 死亡之歌（葬歌）", "about": "短小的一段，弦乐与木管唱一首挽歌，中间有半音下行。施特劳斯用最少的音写最沉的重量；这是全曲唯一一次清场，为后面的赋格腾出空间。"},
+        {"n": 6, "name": "Von der Wissenschaft 关于科学", "about": "赋格段。主题来自「日出」的三音动机，写成严格的四声部赋格，低音声部一步步加码。用赋格写科学既是致敬也是讽刺：越是严密，越解决不了前面几段提出的问题。"},
+        {"n": 7, "name": "Der Genesende 康复者", "about": "C 大调与 B 大调正面冲突。乐队把旧主题的碎片全数召回，一次全奏爆发，紧接着迅速垮下来，转入漫长的渐弱。尼采所谓的「大病初愈」在这里是结构性的：前半段把动机冲突完，后半段才允许舞曲进来。"},
+        {"n": 8, "name": "Das Tanzlied 舞之歌", "about": "圆舞曲。小提琴独奏与乐队轮着跳（DG 版是首席施瓦尔贝），B 大调与 C 大调并行，像两支乐队在同一场舞会里各跳各的。这是施特劳斯式的玩笑：把「超越」写成维也纳舞会。"},
+        {"n": 9, "name": "Das Nachtwandlerlied 夜游者之歌", "about": "结尾。低音持续 C，加弱音器的高音弦乐停在 B 上，中间插入夜曲式的独奏。最后几个和弦既不确认 C 大调也不确认 B 大调，悬着收尾——现代音乐里这种「不肯解决」的做法，从这一页开始变得有说服力。"}
+      ]
+    },
+    {
+      "id": "strauss-r-donjuan",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "title": "唐璜 Op.20（Don Juan）",
+      "aka": ["Don Juan", "唐璜", "唐·璜交响诗"],
+      "match": ["don\\s*juan", "唐璜", "唐·璜"],
+      "about": "1888 年写成，1889 年在魏玛由作曲家自己指挥首演，是施特劳斯第一部真正立住脚的交响诗，那年他二十五岁。脚本取自奥地利诗人莱瑙的戏剧诗，不是莫扎特那条喜剧路子：莱瑙的唐璜是个不断追逐理想女性、最后发现所有对象都配不上想象的人。音乐用两个主题把这件事说完——一个炽热、不断上行的大调主题代表唐璜本人，一个柔美却每次形变的主题代表他遇到的女人；主题在曲中反复变形、加速、被撕开，直到全曲最激烈的全奏之后突然塌下来，剩下几个短促的和弦。配器已经是他后来的样子：四支圆号、三支小号、竖琴、三角铁，色彩换得极快。",
+      "movements": []
+    },
+    {
+      "id": "strauss-r-till",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "title": "蒂尔·奥伊伦施皮格格的恶作剧 Op.28（Till Eulenspiegels lustige Streiche）",
+      "aka": ["Till Eulenspiegel", "Till Eulenspiegels lustige Streiche", "蒂尔的恶作剧", "提尔恶作剧"],
+      "match": ["eulenspiegel", "蒂尔", "提尔"],
+      "about": "1894 到 1895 年写成，1895 年在科隆首演。题材是德国民间那个专爱捉弄人的捣蛋鬼蒂尔，施特劳斯把它写成一首回旋曲：圆号先奏出蒂尔的主题（一个上行的、带跳跃的动机），之后每一次回来都换一副面孔——冒充神父、调戏少女、捉弄学者、最后被吊死。全曲最厉害的地方是「讲故事的清晰度」：不用文字也能听出谁在做什么，结尾蒂尔主题在低音区慢慢消失，乐队留下一句玩笑似的叹息。它和《唐璜》一起，是施特劳斯把交响诗写成「用乐队演一出戏」的证明。",
+      "movements": []
+    },
+    {
+      "id": "strauss-r-salome-dance",
+      "composer": "理查·施特劳斯 Richard Strauss",
+      "title": "莎乐美：七纱舞 Op.54（Tanz der sieben Schleier）",
+      "aka": ["Dance of the Seven Veils", "Salome", "七纱舞", "莎乐美"],
+      "match": ["sieben schleier|seven veils", "七纱舞", "salome"],
+      "about": "出自 1905 年在德累斯顿首演的独幕歌剧《莎乐美》，王尔德的剧本，理查·施特劳斯自己译成德文。七纱舞是剧中莎乐美为希律王跳舞、以换取施洗者约翰头颅的那一段，也是整部歌剧唯一可以单独拿出来演奏的段落。音乐从单簧管与弦乐的东方化旋律起步，一段一段加速、加厚，中途插入希律王许愿的短句，最后冲到全乐队的最强奏，紧接着被莎乐美一句冷冰冰的要求斩断。这一段的配器密度、和声的刺激程度在 1905 年是丑闻级别的，也直接指向了后来的《埃莱克特拉》。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-blue-danube",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "蓝色多瑙河圆舞曲 Op.314（An der schönen blauen Donau）",
+      "aka": ["The Blue Danube", "An der schönen blauen Donau", "蓝色多瑙河", "Blue Danube Waltz"],
+      "match": ["blauen donau|blue danube", "蓝色多瑙河", "多瑙河圆舞曲"],
+      "about": "1867 年 2 月首演，最初是为维也纳男声合唱协会写的合唱圆舞曲，词是诗人格内特的，后来才由作曲家改编成纯乐队版，反而比合唱版有名得多。结构是圆舞曲的标准式样：一段慢引子（圆号先吹出主题的碎片），接着五首小圆舞曲依次登场，每首两个主题，最后是回顾与尾声。它的厉害处在于旋律密度——五首小圆舞曲没有一首是凑数的，而且调到调的过渡非常自然。今天它几乎是奥地利的非官方国歌，维也纳新年音乐会年年以它压轴（真正的最后一曲是《拉德茨基进行曲》）。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-kaiserwalzer",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "皇帝圆舞曲 Op.437（Kaiser-Walzer）",
+      "aka": ["Emperor Waltz", "Kaiser-Walzer", "皇帝圆舞曲", "Kaiserwalzer"],
+      "match": ["kaiser-?walzer|emperor waltz", "皇帝圆舞曲"],
+      "about": "1888 到 1889 年间写成，后世习惯把它和皇帝即位四十周年的庆典联系在一起，首演时用的却是《Hand in Hand》这个名字，后来才改成《皇帝圆舞曲》。它是施特劳斯晚期最「交响化」的一首圆舞曲：开头不是圆舞曲，而是一段四四拍的进行曲式序奏，庄严得近乎军乐；进入圆舞曲后主题的句幅也比早期作品长，尾声又把序奏的进行曲材料召回来收尾，整首曲子因此有头有尾、像一首小交响诗。速度千万不能快，快了就变成轻飘飘的舞曲，失去那份仪式感。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-wienerblut",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "维也纳血统圆舞曲 Op.354（Wiener Blut）",
+      "aka": ["Wiener Blut", "Vienna Blood", "维也纳血统", "维也纳气质圆舞曲"],
+      "match": ["wiener blut|vienna blood", "维也纳血统", "维也纳气质"],
+      "about": "1873 年为奥地利皇帝的银婚庆典而作的合唱圆舞曲，后来施特劳斯又把它扩成轻歌剧《维也纳血统》（1899）。这首曲子的旋律大多不是新写的，而是从旧作里挑出来重新拼接——所以它听起来像一次「施特劳斯金曲串烧」，偏偏串得非常顺。序奏有一段大提琴的宣叙，随后圆舞曲一首接一首，尾声把前面的主题全数召回。它是维也纳人自己认的「城市之歌」，比《蓝色多瑙河》更带市井气。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-fruhlingsstimmen",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "春之声圆舞曲 Op.410（Frühlingsstimmen）",
+      "aka": ["Voices of Spring", "Frühlingsstimmen", "春之声", "春之声圆舞曲"],
+      "match": ["fr(ü|u)hlingsstimmen|voices of spring", "春之声"],
+      "about": "1882 年写成，原本是给花腔女高音写的音乐会圆舞曲，首唱是女高音比安卡·比安基，后来才有了纯乐队版。因为它出身是「声乐曲」，旋律的写法比一般圆舞曲更花哨：装饰音、跳进、快速的花腔音型都留在器乐版里，由长笛、单簧管或小提琴代唱。全曲篇幅不长，序奏之后是几段性格各异的小圆舞曲，尾声有一段华彩式的独奏。听器乐版时可以留意演奏者怎么处理那些「人声才唱得出来」的句子。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-tritschtratsch",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "闲聊波尔卡 Op.214（Tritsch-Tratsch-Polka）",
+      "aka": ["Tritsch-Tratsch-Polka", "Chit-Chat Polka", "闲聊波尔卡", "叽叽喳喳波尔卡"],
+      "match": ["tritsch", "闲聊波尔卡"],
+      "about": "1858 年为维也纳狂欢节写成，标题来自当时维也纳人嘴里的「闲话、八卦」。原本还配了歌词给合唱用，但真正流行的是乐队版。这是快速波尔卡（Polka schnell）的典型：二拍子、速度极快、主题短小重复，中段会突然出现一段抒情的插部，然后立刻被打断，回到开头那个停不下来的节奏。写作难度在于「整齐」——所有声部必须在极快的速度上咬合，一点拖沓就散架。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-pizzicato",
+      "composer": "小约翰·施特劳斯 Johann Strauss II（与约瑟夫合作）",
+      "title": "拨弦波尔卡（Pizzicato-Polka，1869）",
+      "aka": ["Pizzicato Polka", "拨弦波尔卡", "Pizzicato-Polka"],
+      "match": ["pizzicato", "拨弦波尔卡"],
+      "about": "1869 年施特劳斯兄弟在俄国巴甫洛夫斯克演出期间合作写成，署名是小约翰与约瑟夫两人，原版没有作品号（旧唱片标签上常见的 Op.234 其实是《加速度圆舞曲》的编号）。全曲只用弦乐的拨弦，不用弓，也没有管乐——听起来像一支小乐队在模仿八音盒。结构是简单的三段体，中间一段由大提琴与小提琴对答，尾声把主题再走一遍就干净收尾。它考验的是乐团的整齐度与厅堂的残响：拨弦的余音长短，直接暴露录音场地。另有一首《新拨弦波尔卡》Op.449，是兄弟俩后来写的另一首，别混。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-donnerblitz",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "雷鸣电闪快速波尔卡 Op.324（Unter Donner und Blitz）",
+      "aka": ["Unter Donner und Blitz", "Thunder and Lightning", "雷鸣电闪波尔卡", "雷电波尔卡"],
+      "match": ["donner und blitz|thunder and lightning", "雷鸣电闪", "雷电波尔卡"],
+      "about": "1868 年维也纳狂欢节期间写成，是施特劳斯把「音效」写进舞曲的代表作。定音鼓模仿雷，钹与三角铁模仿闪电，铜管的短促重音是风；但这些效果全被塞进严格的二拍子舞曲节奏里，所以它既是音画又是能跳的波尔卡。结构是快—慢—快的三段：中段有一段相对安静的旋律，雷声暂时退场，随后以更猛的方式回来。听现场版时，鼓手的力度控制最能分出高下。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-aufderjagd",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "狩猎快速波尔卡 Op.373（Auf der Jagd）",
+      "aka": ["Auf der Jagd", "Off to the Hunt", "狩猎波尔卡"],
+      "match": ["auf der jagd|off to the hunt", "狩猎波尔卡"],
+      "about": "1875 年写成，主题借自同年轻歌剧《罗马狂欢节》里的猎人合唱，是典型的「从舞台搬进音乐厅」的曲子。开头是号角式的号召，随后进入快速波尔卡的节奏；中段有一段模仿猎号的三声部合奏，尾声再把开头的号角召回。它的效果非常直接：圆号吹得漂亮，全场就热；圆号一紧，整首就塌。新年音乐会上它出场频率极高，属于「一听就知道是谁写的」那一类。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-tausendundeine",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "一千零一夜圆舞曲 Op.346（Tausend und eine Nacht）",
+      "aka": ["Tausend und eine Nacht", "A Thousand and One Nights", "一千零一夜", "天方夜谭圆舞曲"],
+      "match": ["tausend ?und ?eine nacht|thousand and one night", "一千零一夜"],
+      "about": "1871 年从轻歌剧《英迪戈与四十大盗》的旋律里编成的圆舞曲，是施特劳斯「把舞台素材改成音乐会曲目」做得最成功的一次。序奏用弦乐与竖琴铺出东方色彩，随后小提琴独奏带出一段带装饰的旋律，再进入圆舞曲主体。它比一般的施特劳斯圆舞曲更「慢热」：前半段偏抒情、偏暗，直到后半段才真正热起来，尾声又回到开头的独奏材料。想听施特劳斯写「异域」怎么写，这首最典型。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-rosen",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "南国玫瑰圆舞曲 Op.388（Rosen aus dem Süden）",
+      "aka": ["Rosen aus dem Süden", "Roses from the South", "南国玫瑰", "南国的玫瑰"],
+      "match": ["rosen aus dem s", "南国玫瑰"],
+      "about": "1880 年从轻歌剧《女王的绣花手帕》的旋律编成，是施特劳斯晚期圆舞曲里最耐听的一首。序奏简短，随后几首小圆舞曲依次出现，其中第三首的旋律后来被单独摘出来流行了很久。和《蓝色多瑙河》相比，它的情绪更暖、更柔，木管的比重更大，尾声有一段回到序奏材料的小结，收得干净不拖。听的时候留意圆舞曲之间的调性过渡——施特劳斯晚期在这种地方特别讲究。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-kunstlerleben",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "艺术家生涯圆舞曲 Op.316（Künstlerleben）",
+      "aka": ["Künstlerleben", "Artists' Life", "艺术家生涯", "艺术家的生活"],
+      "match": ["k(ü|u)nstler-?leben|artists'? life", "艺术家生涯", "艺术家的生活"],
+      "about": "1867 年狂欢节为维也纳艺术家协会（Hesperus）的舞会而写，与小约翰同年的《蓝色多瑙河》几乎是姊妹作。序奏有几分沉思，不像舞曲的开场；进入圆舞曲后，旋律一首比一首明快，但整体保持一种「体面的热情」，不往狂欢那边走。尾声把主要主题回顾一遍，用一段上行音型收束。这首曲子在维也纳的评价一直很高，被认为是「写给同行听」的圆舞曲。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-wienerwald",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "维也纳森林的故事圆舞曲 Op.325（G'schichten aus dem Wienerwald）",
+      "aka": ["G'schichten aus dem Wienerwald", "Tales from the Vienna Woods", "维也纳森林的故事", "Geschichten aus dem Wienerwald"],
+      "match": ["wienerwald|wiener wald", "维也纳森林"],
+      "about": "1868 年为维也纳男声合唱协会的舞会写成，同样有合唱版与乐队版，乐队版里有一段齐特尔琴（Zither）独奏——这是它最特别的地方，也是判断版本好坏的标志。序奏用圆号与木管描出森林的清晨，齐特尔琴在圆舞曲之间插入，把「维也纳郊外」这个意象直接点出来。全曲比一般圆舞曲长，尾声把齐特尔琴材料与舞曲主题并置收尾。没有齐特尔琴的版本也能听，但总像少了一味。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-fledermaus-ouverture",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "《蝙蝠》序曲（Die Fledermaus: Ouvertüre）",
+      "aka": ["Die Fledermaus Overture", "Fledermaus Ouverture", "蝙蝠序曲", "蝙蝠序曲"],
+      "match": ["fledermaus.{0,25}ouvert|ouvert.{0,25}fledermaus", "蝙蝠.{0,4}序曲"],
+      "about": "1874 年轻歌剧《蝙蝠》的序曲，是施特劳斯自己从剧中的旋律拼出来的，但它本身并不出现在歌剧里。结构很讲究：先是三个带威胁感的和弦与一段不安的快板，把全剧的「玩笑与报复」定调，然后依次走过第一幕的合唱、第二幕的圆舞曲（就是那段最著名的《香槟之歌》材料）、第三幕的旋律，最后用一段急板收场。它常被单独当音乐会曲目演，也是轻歌剧序曲里少数能独立成立的一首。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-zigeunerbaron-ouverture",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "《吉普赛男爵》序曲（Der Zigeunerbaron: Ouvertüre）",
+      "aka": ["Der Zigeunerbaron Overture", "The Gypsy Baron Overture", "吉普赛男爵序曲", "吉卜赛男爵序曲"],
+      "match": ["zigeunerbaron.{0,30}overture|overture.{0,30}zigeunerbaron", "吉普赛男爵"],
+      "about": "1885 年轻歌剧《吉普赛男爵》的序曲，比《蝙蝠》序曲更重、更「正歌剧」。开头是一段缓慢的引子，匈牙利式的调式与切分音先出来，随后进入快板，把剧中吉普赛人的合唱与进行曲材料串起来，中段有一段弦乐的抒情旋律，尾声用全乐队的急板收束。它比《蝙蝠》序曲少一点玩笑、多一点乡土气，也是施特劳斯写得最「交响」的一首序曲。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-aegyptischer",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "埃及进行曲 Op.335（Ägyptischer Marsch）",
+      "aka": ["Ägyptischer Marsch", "Egyptian March", "埃及进行曲"],
+      "match": ["gyptischer marsch|egyptian march", "埃及进行曲"],
+      "about": "1869 年施特劳斯受邀去埃及演出（时值苏伊士运河通航的庆典季），这首进行曲就是那次旅行的产物。标题里的「埃及」主要靠配器做出来：三角铁、铃鼓、短笛与半音化的旋律，是当时欧洲人想象中的东方。结构是标准的进行曲式样——序奏、主部、三声中部、再现，速度不快，靠节奏的重音与打击乐撑住气势。它属于「异域风情」这一类作品里比较讲究的一首，不是纯粹的应景之作。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-persischer",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "波斯进行曲 Op.289（Persischer Marsch）",
+      "aka": ["Persischer Marsch", "Persian March", "波斯进行曲"],
+      "match": ["persischer marsch|persian march", "波斯进行曲"],
+      "about": "1864 年作，一般与波斯沙阿访问维也纳的外交庆典联系在一起。全曲只有一分多钟，是施特劳斯最短的进行曲之一，也最「一根筋」：开头的节奏型从头推到尾，中段稍作对比就立刻回来。它不靠旋律取胜，靠的是那种压着走的紧迫感；指挥若把它当成热闹小品快速带过，反而对味。新年音乐会上它常被用来在几首大圆舞曲之间换气。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-morgenblatter",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "晨报圆舞曲 Op.279（Morgenblätter）",
+      "aka": ["Morgenblätter", "Morning Papers", "晨报圆舞曲", "晨叶圆舞曲"],
+      "match": ["morgenbl", "晨报圆舞曲"],
+      "about": "1864 年狂欢节为维也纳记者协会（Concordia）的舞会而写。有意思的是同一场舞会原本请了奥芬巴赫写《晚班邮件》（Abendblätter），施特劳斯听说后加写了这首《晨报》来对台——两支曲子后来都成了名作，算是圆舞曲史上一次著名的「打擂台」。音乐上它比《蓝色多瑙河》更轻、更机敏，序奏带一点讽刺的口吻，几首小圆舞曲切换得很快，尾声干净利落。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-weinweib",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "酒、女人与歌圆舞曲 Op.333（Wein, Weib und Gesang）",
+      "aka": ["Wein, Weib und Gesang", "Wine, Women and Song", "酒、女人与歌", "美酒女人与歌"],
+      "match": ["wein,? weib|wine,? women", "酒、女人与歌|美酒女人与歌"],
+      "about": "1869 年为维也纳男声合唱协会的狂欢节舞会写成，原本是合唱圆舞曲，乐队版后来更常演。标题是当时流行的箴言式说法，音乐却一点都不粗俗：序奏稳重，几首小圆舞曲一首比一首放开，到后半段才真正热闹起来。它的旋律线条比《蓝色多瑙河》更长、更连贯，配器以木管与弦乐的交替为主，铜管多在句尾补强，因此听感偏「歌唱性」、也偏细——这解释了为什么合唱版和器乐版都站得住。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-leichtesblut",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "轻如鸿毛快速波尔卡 Op.319（Leichtes Blut）",
+      "aka": ["Leichtes Blut", "Light as a Feather", "轻如鸿毛波尔卡", "无忧无虑波尔卡"],
+      "match": ["leichtes blut|light as a feather", "轻如鸿毛"],
+      "about": "1867 年狂欢节写成，标题的意思接近「没心没肺、轻飘飘」，音乐也确实如此：二拍子、速度飞快、主题短促，全曲两分多钟就结束。中段有一段稍慢的插部，让耳朵歇一下，随即又冲回去。它和《闲聊波尔卡》《雷鸣电闪》是同一类东西——施特劳斯最擅长的「三分钟让人高兴起来」的手艺，考验的是乐团在极快速度下的整齐与弹性。",
+      "movements": []
+    },
+    {
+      "id": "strauss2-perpetuum",
+      "composer": "小约翰·施特劳斯 Johann Strauss II",
+      "title": "无穷动 Op.257（Perpetuum Mobile，音乐的玩笑）",
+      "aka": ["Perpetuum Mobile", "Perpetual Motion", "无穷动", "常动曲"],
+      "match": ["perpetuum", "无穷动"],
+      "about": "1861 年写成，副题就叫「一个音乐的玩笑」。全曲是一条几乎不停顿的八分音符旋律线，从第一小节跑到最后一小节，中间没有真正的展开、没有戏剧性的高潮，只有配器与力度的微调：木管接过旋律，弦乐再拿回去，如此换几轮便到结尾。它其实是施特劳斯对「圆舞曲工厂」这个身份的自嘲——只要节奏不停，音乐就能一直转下去。指挥们常拿它当加演，速度一场比一场快。",
+      "movements": []
+    },
+    {
+      "id": "strauss1-radetzky",
+      "composer": "老约翰·施特劳斯 Johann Strauss I",
+      "title": "拉德茨基进行曲 Op.228（Radetzky-Marsch）",
+      "aka": ["Radetzky March", "Radetzky-Marsch", "拉德茨基进行曲", "拉德斯基进行曲"],
+      "match": ["radetzky|radetzki", "拉德茨基|拉德斯基"],
+      "about": "1848 年写成，题献给奥地利元帅拉德茨基，原是给步兵团用的军队进行曲，后来成了奥地利最有名的进行曲。结构极简：一段序奏，主部主题（那个谁都听过的三音下行），三声中部，再回到主部。它的效果全靠「齐」——所有声部同一个节奏型一起砸下来。维也纳新年音乐会从 1946 年起把它固定为最后一首加演，观众跟着拍手，指挥的手势就是在指挥全场观众。",
+      "movements": []
+    }
+  ]
+}

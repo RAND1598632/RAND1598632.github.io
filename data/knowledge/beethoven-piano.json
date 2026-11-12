@@ -1,0 +1,1051 @@
+{
+  "group": "beethoven-piano",
+  "albums": [
+    {
+      "name": "Beethoven - Complete Piano Sonatas - Kempff [DG 2016 24-96]",
+      "composer": "贝多芬 Beethoven",
+      "era": "classical",
+      "performer": "威廉·肯普夫 Wilhelm Kempff（钢琴）",
+      "recorded": "1964–65",
+      "released": "2016（DG 24bit/96kHz 数字重制）",
+      "label": "DG",
+      "edition": "DG 2016 数字重制 24bit/96kHz，102 轨（商品号 00028947963059）",
+      "oneliner": "全集里句子最会唱的一套，24-96 转制让 60 年代 DG 的琴声多出一层空气。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "1964–65 年在汉诺威录完 32 首，肯普夫当时 69–70 岁。整套速度偏流动，慢乐章当歌来唱，很少摆出纪念碑式的重量。曲目信息把 Klaus Scheibe、Heinz Wildhagen、Karl Faust 等名字并进了艺术家一栏，这些人应是当年的录音班底，不是合作演奏者。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "DG 2016 年的 24bit/96kHz 数字重制，102 段按全集顺序排，不分卷。标签里带商品号 00028947963059，另附一册 PDF 小册。母带来源没写明，从底噪和空间感看是从模拟母带重新采样的。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "比 16-44.1 版更松，琴槌起音清楚，弱奏（Op.27/2 第一乐章、Op.110 的 Arioso）能听出汉诺威厅的残响。肯普夫不靠力度做对比：Op.57 第一乐章 9 分 54、Op.53 第一乐章 10 分 56，靠句子的走向推。与他 1950 年代那套单声道全集比，这里更圆熟、更少火气；要更重的悲剧性，得去找吉列尔斯或阿劳。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "库内这套的参考版，适合连着听，也适合对着谱子当标准答案。短板是 1960 年代 DG 的钢琴录音，动态和低频不可能像现代录音；想听更开阔的厅堂感，得另找新录音。"
+        }
+      ],
+      "rating": 5,
+      "tags": [
+        "参考级演绎",
+        "可听入门",
+        "同曲首选"
+      ]
+    },
+    {
+      "name": "Beethoven - Die Klaviersonaten - Kempff",
+      "composer": "贝多芬 Beethoven",
+      "era": "classical",
+      "performer": "威廉·肯普夫 Wilhelm Kempff（钢琴）",
+      "recorded": "1964–65",
+      "released": "未标注（同一录音的另一种封装）",
+      "label": "DG",
+      "edition": "16bit/44.1kHz，按 Ⅰ/Ⅱ/Ⅲ 三卷 × 每卷三张碟组织",
+      "oneliner": "同一套 1964–65 录音的低规格版本，按三卷九碟排好，只有 16-44.1。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "与 24-96 那张是同一批 1964–65 年汉诺威录音，102 段一一对应，连 Op.53 第二乐章单独成段的处理都一样。区别只在规格：这里是 16bit/44.1kHz，细节与动态的余量都比 24-96 版紧一点。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "按当年三卷本编排：Ⅰ 卷收 No.1–10，Ⅱ 卷 No.11–22，Ⅲ 卷 No.23–32，每卷三张碟。但碟内曲序不按作品号走（Ⅰ 卷第一张从 Op.2/3 第一乐章开始），看排序时得以作品号为准。总时长 9 小时 54 分，比 24-96 版短 2 分 38 秒。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "逐段比过：102 段全对得上，多数差值在 3–10 秒，属于分段余量的量级；但 No.21 第一乐章（517″ 对 656″）和 No.18 第一乐章（384″ 对 510″）差了两分多钟，这个量级不像余量，16-44.1 那版这两段很可能被截短。其余音色同源，低规格版的高频钝一点、弱奏细节少一层。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "想按卷听、随手翻到某一卷，这套更方便；代价是规格只有 16/44，那两段标注的时长也靠不住。认真听还是用 24-96 当主，这套留着做备用或便携版。"
+        }
+      ],
+      "rating": 3,
+      "tags": [
+        "可听入门"
+      ]
+    },
+    {
+      "name": "Beethoven - Piano Sonatas - Gilels",
+      "composer": "贝多芬 Beethoven",
+      "era": "classical",
+      "performer": "埃米尔·吉列尔斯 Emil Gilels（钢琴）",
+      "recorded": "约1970年代–1985",
+      "released": "未标注（DG 9CD 盒装）",
+      "label": "DG",
+      "edition": "DG 9CD 盒装，120 轨，附 WoO 47 两首与 Op.35 英雄变奏",
+      "oneliner": "吉列尔斯只录了 27 首，速度宽、音色厚，Op.106 是不少人的首选。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "吉列尔斯 1970 年代起为 DG 录贝多芬奏鸣曲，原计划做满 32 首，1985 年去世中断。这套 9CD 收 27 首，按编号收到 No.31 Op.110 为止，Op.111 没录；缺的还有 Op.2/1、Op.14/1、Op.54、Op.78。另附早年两首「选帝侯奏鸣曲」WoO 47 之一、之二和 Op.35《英雄变奏曲》。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "16bit/44.1kHz，九张碟按 DG 盒装顺序排（第一张从 Op.2/2 起，第九张收 Op.101 与 Op.106）。这套没标发行年，也没有 Hi-Res 版本可比，就是 CD 规格。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "和肯普夫几乎是反面：Op.106 第一乐章 12 分 24（肯普夫 8 分 52）、Adagio 19 分 51（16 分 31），Op.10/1 第二乐章 11 分 45（7 分 28），Op.109 末乐章 14 分 23（11 分 13）。低音厚、和弦饱满、句尾爱做大渐慢，慢乐章有时慢到接近静止。Op.57、Op.106、Op.110 在这种尺度下反而立得住。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "缺五首，不能当全集用；但它是这批曲目里分量最重的另一极。想听 Op.106 的建筑感、或比较同一首在两种美学下的差别，这套必须有。短板是个别乐章（Op.14/2、Op.10/1 的慢乐章）慢到失衡。"
+        }
+      ],
+      "rating": 4,
+      "tags": [
+        "参考级演绎",
+        "同曲首选"
+      ]
+    },
+    {
+      "name": "[1998] Various Artists - 20世纪伟大钢琴家 唱片集锦 (2CD)",
+      "composer": "群星 Various（肖邦、李斯特、勃拉姆斯、德彪西、巴赫等）",
+      "era": "mixed",
+      "performer": "60 余位钢琴家（阿劳、阿格丽奇、科尔托、霍洛维兹、里赫特、鲁宾斯坦、肯普夫等）",
+      "recorded": "约1900年代–1990年代，各家不同",
+      "released": "1998",
+      "label": "Philips",
+      "edition": "Philips「20世纪伟大钢琴家」系列 2CD 精选，德国版，唱片编号 462 699-2",
+      "oneliner": "Philips 那套 200 张世纪钢琴大系的官方精选：68 段一人一曲，当口味地图用。",
+      "version_notes": [
+        {
+          "h": "录音与阵容",
+          "t": "1998 年 Philips 为「Great Pianists of the 20th Century」（100 辑、200 张）做的官方精选，68 轨一人一段：从霍夫曼、帕德雷夫斯基、拉赫玛尼诺夫的单声道老录音，到基辛、齐默尔曼的 1990 年代数码录音。多数是各辑里最有代表性的那几分钟，不少标着 excerpt，是节选而不是完整曲目。"
+        },
+        {
+          "h": "版本与转制",
+          "t": "两张 CD 全长 77:48 与 75:34，标题统一成「作曲家 / 曲名」的格式。曲名有错：Chopin 那轨标成 Op.26 No.6，实际是 Op.25 No.6 的「三度」练习曲。"
+        },
+        {
+          "h": "听感与特色",
+          "t": "转制水平参差：科尔托、弗里德曼、霍夫曼、帕德雷夫斯基那几轨是 78 转的底子，噪声与带宽限制摆在那里；李帕蒂、哈丝姬尔、索洛蒙的早期 LP 音源干净得多；基辛、齐默尔曼、内田光子则是现代数码声。价值不在音质，而在一小时里横向听「同一个乐句，六种活法」。"
+        },
+        {
+          "h": "收藏与使用",
+          "t": "当入门地图、认人用最好，不适合给某首曲子定版本。68 段里大量节选，别拿它评判作品全貌；想深听哪一位，再回库里的单辑。它的用处是认音色、认句法，不是定标尺。"
+        }
+      ],
+      "rating": 3,
+      "tags": [
+        "可听入门",
+        "历史文献"
+      ],
+      "track_notes": {
+        "Chopin / Waltz in G flat Op.70 No.1": "安达的肖邦圆舞曲，左手三拍子有舞感，句尾收得干净。",
+        "Chopin / Prelude in B flat minor Op.28 No.16": "阿格丽奇 1960 年代的急流，右手颗粒一颗颗立着，速度毫不含糊。",
+        "Brahms / 'Paganini' Variations Op.35 Book 1 (variations 13 & 14)": "阿劳弹勃拉姆斯变奏，和弦厚得像铜管，重音压在低音上。",
+        "Liszt / Transcendental Etude No.5 in B flat 'Feux follets' (excerpt)": "《鬼火》是超技练习曲里最考弱奏的一首，阿什肯纳齐靠指尖控制而不是砸。",
+        "Chopin / Etude in G sharp minor Op.25 No.2": "巴克豪斯的触键省力、声音偏干，肖邦弹得像德奥作品。",
+        "Liszt / Sonetto 47 del petrarca (from 'Annees de pelerinage' II)": "巴伦博伊姆的意大利组曲，旋律性压过炫技。",
+        "Rubinstein / Etude in C Op.23 No.2 'Staccato'": "安东·鲁宾斯坦的断奏练习曲，博列特偏偏用他出名的连奏去弹。",
+        "Haydn / Sonata In D Hob.XVI:42 (Finale)": "布伦德尔的海顿末章，弹性速度很小，干净得近乎克制。",
+        "Arensky / 'Coquette' from Suite No.2 'Silhouettes'": "布鲁克与泰曼诺夫的双钢琴沙龙小品，两人都是列宁格勒出身。",
+        "Rameau / 'Le rappel des oiseaux' (from 'Pieces de clavecin')": "卡萨德絮弹拉莫，羽管键琴的装饰音被搬到现代钢琴上。",
+        "Chopin / Mazurka in D Op.33 No.2": "切尔卡斯基的玛祖卡，第二拍拖得很明显，是波兰人的弹法。",
+        "Tchaikovsky / 'Song Of The Lark' (from 'The Months')": "克莱本《四季》里的云雀，抒情的一面，和 1958 年的柴一判若两人。",
+        "Debussy / 'La fille aux cheveux de lin' (from 'Preludes', Book I)": "科尔托的德彪西，老录音的噪声换来极自由的速度。",
+        "Schubert / Impromptu No.4 in F minor D.935 (excerpt)": "柯曾的舒伯特，克制到几乎没有表情，节选只留了后半段。",
+        "Chopin / Etude in G flat Op.25 No.9 'Butterfly'": "齐夫拉的「蝴蝶」，轻得像不用力，其实每个音都在控制。",
+        "Schumann / Intermezzo Op.4 No.6": "艾申巴赫的早期舒曼，音色偏暗，句子拉得长。",
+        "Bach-Busoni / 'Ich ruf' zu dir' (Chorale-Prelude)": "费舍尔的巴赫-布索尼，管风琴式的连奏，低声部像脚踏板。",
+        "Mozart / Sonata in C K.330 (finale) (excerpt)": "弗莱舍尔右手受伤前的莫扎特，末章轻快，节选只截了前半。",
+        "Chopin / Waltz in D flat Op.70 No.3": "弗朗索瓦的肖邦，香水味重，速度弹性大到近乎即兴。",
+        "Strauss-Godowsky / 'Standchen'": "戈多夫斯基改编的施特劳斯《小夜曲》，弗雷尔的音色偏亮。",
+        "Chopin / Nocturne in E flat Op.55 No.2": "弗里德曼的夜曲，装饰音自由到越界，是战前波兰学派的活标本。",
+        "Prokofiev / 'Dance of the Girls with Lilies' (from 'Romeo and Juliet')": "加夫里洛夫弹普罗科菲耶夫，金属般的触键，节奏咬得很紧。",
+        "Debussy / 'Minstrels' (from 'Preludes' Book I)": "吉赛金的德彪西，踏板与雾，是这套里德彪西的基准。",
+        "Bach-Siloti / Prelude in B minor": "吉列尔斯的巴赫-西洛蒂，低音厚得像管风琴，一句句往下压。",
+        "Liszt / 'La chasse' ('Paganini' Etude No.5)": "金兹堡的《狩猎》，苏联学派的力量，号角动机弹得很野。",
+        "Schumann / 'Chopin' & 'Estrella' from 'Carnaval'": "戈多夫斯基弹《狂欢节》两段，他本人是这套里改编曲的大户。",
+        "Debussy / Passepied from 'Suite Bergamasque'": "古尔达的德彪西，节奏清楚得像在数拍子，反而不朦胧。",
+        "J.S. Bach / Bourree (from 'French Suite' No.6 in E BWV 817) a": "海布勒的巴赫，动态很窄，句法平衡得像教科书；原题末尾多了一个 a，不必管它。",
+        "Schubert / Sonata in B flat D.960 (Scherzo)": "哈丝姬尔的 D.960 谐谑曲，透明、轻，几乎不踩踏板。",
+        "Bach-Hess / 'Jesu, Joy of Man's Desiring'": "赫斯自己改编的合唱前奏曲，她就是这首改编曲的作者。",
+        "Moszkowski / 'La jongleuse'": "霍夫曼的技巧示范，沙龙小品被弹得毫不油滑。",
+        "Liszt / Valse oubliee No.1": "霍洛维兹的《遗忘的圆舞曲》，音色魔术，弱奏像隔着一层纱。",
+        "Chopin / Etude in F Op.10 No.8": "贾尼斯的肖邦练习曲，右手跑动干净，不靠踏板糊过去。",
+        "Albeniz / Iberia, Book I (excerpt): Evocation": "卡佩尔的《伊比利亚》，色彩浓，节选只留第一曲的开头。",
+        "Brahms / Hungarian Dance No.1 In G Minor": "卡钦的勃拉姆斯，粗犷，重音直接砸在拍点上。",
+        "Brahms / Fantasies Op.116: Intermezzo In E": "肯普夫的勃拉姆斯间奏曲，句法像他的舒伯特，慢而不散。",
+        "Prokofiev / Etude Op.2 No.3": "基辛 1980 年代末的技巧展示，四分钟里全是硬功夫。",
+        "Grieg / Lyrical Pieces Op.43: To The Spring": "科奇什的格里格，民歌味压过沙龙味。",
+        "Brahms / Intermezzo In C Op.119 No.3": "科瓦切维奇的勃拉姆斯晚期小品，克制、内敛，句尾几乎不留痕。",
+        "Granados / El Pelele (excerpt)": "拉罗查的格拉纳多斯，西班牙节奏的弹性全在左手。",
+        "Chopin / Etude In G Sharp Minor Op.26 No.6 'Double": "列文涅的「三度」练习曲范本；这张的曲目单把作品号标错了，应是 Op.25 No.6，标题也被截断。",
+        "Brahms / Waltz In C Sharp Op.39 No.6": "李帕蒂的勃拉姆斯圆舞曲，克制得几乎透明。",
+        "Schumann / Kinderszenen Op.15: Gluckes genug": "鲁普的《童年情景》，不煽情，速度偏慢。",
+        "Chopin / Tarantelle Op.43": "马加洛夫的塔兰泰拉，速度极快，句尾收得利落。",
+        "Debussy / Preludes Book II: General Lavine": "米凯兰杰利的德彪西，节奏精确到机械，反而显出幽默。",
+        "Liszt / Concert Etude No.2 In F Minor 'La leggierezza (excerpt)": "莫伊塞维奇的李斯特，轻盈，节选只保留了中段。",
+        "Chopin / Mazurka In F Minor Op.63 No.2": "莫拉维茨的玛祖卡，细腻到每一拍都在换音色。",
+        "Liszt / Paganini Etude No. 3 'La campanella' (excerpt)": "奥格登的《钟》，力量型弹法，高音区的重复音毫不含糊。",
+        "Paderewski / Minuet In G (excerpt)": "帕德雷夫斯基弹自己的《小步舞曲》，1920 年代录音，噪声很大。",
+        "Scarlatti / Sonata In A K.212": "佩拉希亚的斯卡拉蒂，现代钢琴上的清亮音色。",
+        "J.S.Bach / French Suite No.2 BWV 813: Courante": "皮蕾丝的巴赫库朗特，舞步感强于对位感。",
+        "Tchaikovsky / The Sleeping Beauty: Gavotte & Le canari qui chante": "普列特涅夫的《睡美人》改编曲，他自己写的钢琴版。",
+        "Chopin / Berceuse Op.57": "波利尼的摇篮曲，左手固定音型像钟摆，冷而有控制。",
+        "Gershwin / The Man I Love (excerpt)": "普列文的格什温，爵士味道正，节选只留一段。",
+        "Rachmaninoff / Etude-Tableau In C Op.33 No.2": "拉赫玛尼诺夫弹自己的音画练习曲，作曲家本人的速度就是标准。",
+        "Rachmaninoff / Prelude In G Sharp Minor Op.32 No.12": "里赫特的钟声，低音一层层叠上去，是这套里最重的一轨。",
+        "Chopin / Waltz In D Flat Op.64 No.1 'Minute'": "鲁宾斯坦的「小狗」，松弛、不赶，反而比快更对。",
+        "Schubert / Moment Musical In F Minor D.780 No.5": "席夫的舒伯特，中段转大调时音色一变。",
+        "Beethoven / 'Diabelli' Variations Op.120 No.8 (Poco vivace)": "施纳贝尔只弹第 8 变奏，1930 年代的触键，句法方正；同一段尤金娜也录了一版，更慢更沉。",
+        "Scriabin / Sonata No.3 In F Sharp Minor Op.23 (2nd movement)": "索弗罗尼茨基弹斯克里亚宾，他是斯克里亚宾的女婿，这一路有家学。",
+        "Liszt / 'Annees de pelerinage' I: Au bord d'une source": "索洛蒙的《在水边》，水声般的音型弹得很轻，句子不散。",
+        "J.S.Bach / Partita No.1 In B Flat BWV 825 (Prelude)": "图雷克的巴赫前奏曲，节奏严格，几乎不带弹性。",
+        "Debussy / Etudes Book I: Etude No.6": "内田光子的德彪西练习曲，把技术练习弹成了音乐。",
+        "Gershwin / Nobody but you": "瓦茨的格什温，节奏松，带点即兴的味道。",
+        "Scarlatti / Sonata In F K.107": "魏森伯格的斯卡拉蒂，触键干脆，装饰音清楚。",
+        "Gershwin / Transcription for piano of Gershwin's Embraceable You": "厄尔·怀尔德改编的格什温，他自己就是这套改编曲的作者。",
+        "Debussy / Preludes Book I: La danse de Puck": "齐默尔曼的《 Puck 之舞》，断奏与连奏切换极快。"
+      }
+    }
+  ],
+  "works": [
+    {
+      "id": "beethoven-piano-sonata-1",
+      "composer": "贝多芬 Beethoven",
+      "title": "f小调第一钢琴奏鸣曲 Op.2 No.1",
+      "aka": [
+        "Piano Sonata No.1",
+        "Sonate Nr. 1",
+        "第一钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*1\\b.{0,60}op\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*2\\b[^0-9]{0,8}no\\.?\\s*1\\b",
+        "sonat[ae].{0,60}op\\.?\\s*2\\s*[/-]\\s*1\\b"
+      ],
+      "about": "1795 年出版，Op.2 三首题献给海顿。这是贝多芬出版的第一首奏鸣曲，四个乐章都很短，像一台压缩过的戏：开头是曼海姆式的上行琶音直冲上去，第二乐章 Adagio 的装饰音还留着 C.P.E. 巴赫的痕迹，小步舞曲的三声中部已经不安分，末乐章 Prestissimo 一路不停。难点不在力度，而在把短句写出密度——每四小节都要有方向，否则就散了。它在贝多芬的分期里属于波恩—维也纳交接的早期，但小调的阴郁和突然的休止已经预告了后面的 Op.10 No.1 与「悲怆」。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro",
+          "about": "f 小调，曼海姆火箭式的琶音主题一上来就定了基调，副题在降 A 大调上收敛下来。呈示部的两个主题对比不大，靠节奏的紧松和突然的强奏制造张力。"
+        },
+        {
+          "n": 2,
+          "name": "Adagio",
+          "about": "F 大调，旋律线极长，装饰音要弹成即兴的叹息而不是谱面上的音符。左手几乎只是和声骨架，右手的自由速度决定这一乐章成不成立。"
+        },
+        {
+          "n": 3,
+          "name": "Menuetto (Allegretto)",
+          "about": "名义上是小步舞曲，三声中部却转到降 D 大调，和声一下子暗下来。速度要压住，太快就丢掉那种「旧体裁里藏着新东西」的意味。"
+        },
+        {
+          "n": 4,
+          "name": "Prestissimo",
+          "about": "f 小调，三段体的急板，短促的动机不断被打断。右手每句都被强音切断，左手要跟着一起停，不能靠踏板掩饰；结束前几乎不给呼吸，收得干脆。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-2",
+      "composer": "贝多芬 Beethoven",
+      "title": "A大调第二钢琴奏鸣曲 Op.2 No.2",
+      "aka": [
+        "Piano Sonata No.2",
+        "Sonate Nr. 2",
+        "第二钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*2\\b.{0,60}op\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*2\\b[^0-9]{0,8}no\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*2\\s*[/-]\\s*2\\b"
+      ],
+      "about": "1795 年前后写成，与第一首同属 Op.2。A 大调让它比邻居明亮外向，四个乐章里最特别的是第二乐章 Largo appassionato：织体像弦乐四重奏，低音走着自己的步伐，右手在高声部独白，贝多芬慢乐章里少见的「沉重」；第三乐章干脆用 Scherzo 顶替小步舞曲，这是他出版作品里第一次这么标。难点是第二乐章的长气息——要弹得像四个人在说话，而不是一台琴在伴奏。技术上它比第一首难，但难在分寸而非速度。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro vivace",
+          "about": "A 大调，主题是跳跃的四分音符，副题轻巧地溜进 E 大调。展开部对动机做碎片化处理，力度起伏要跟着和声走，不能一路平推。"
+        },
+        {
+          "n": 2,
+          "name": "Largo appassionato",
+          "about": "D 大调，几乎是四声部的写法：低音固定音型、中声部切分、右手长句。踏板要吝啬，让每个声部听得见；速度一慢就散，一快就变成进行曲。"
+        },
+        {
+          "n": 3,
+          "name": "Scherzo (Allegretto)",
+          "about": "A 大调，短小，三声中部是卡农式的追逐。重音常落在弱拍上，要让错位听得出来又不能真的乱；整段保持轻快，别弹成慢乐章。"
+        },
+        {
+          "n": 4,
+          "name": "Rondo (Grazioso)",
+          "about": "回旋主题优雅，插部里出现过一段 a 小调的阴影。结尾的加速要留有余地：太快会把「优雅」两个字吃掉，太慢又成了散步。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-3",
+      "composer": "贝多芬 Beethoven",
+      "title": "C大调第三钢琴奏鸣曲 Op.2 No.3",
+      "aka": [
+        "Piano Sonata No.3",
+        "Sonate Nr. 3",
+        "第三钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*3\\b.{0,60}op\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*2\\b[^0-9]{0,8}no\\.?\\s*3\\b",
+        "sonat[ae].{0,60}op\\.?\\s*2\\s*[/-]\\s*3\\b"
+      ],
+      "about": "1795 年作，Op.2 里最长也最炫的一首，据说海顿对它的野心不太买账。第一乐章开头是分解和弦的快速华彩，把「协奏曲式的登场」搬进了奏鸣曲；第二乐章 Adagio 转到 E 大调，是当时贝多芬写过最抒情的慢乐章；末乐章有连续的双三度与八度冲刺，是早期作品里技术门槛最高的一处。难点很实在：双三度的连贯、大跳的准确，以及别把炫技弹成体操——它仍然是四个乐章的结构作品，不是练习曲。这首之后，贝多芬有两年没再碰奏鸣曲。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro con brio",
+          "about": "C 大调，开头用琶音华彩当主题，第二主题在 G 大调上更歌唱。展开部把琶音动机拆开重组，尾声明亮而短促。"
+        },
+        {
+          "n": 2,
+          "name": "Adagio",
+          "about": "E 大调，旋律带大量装饰，左手用十六分音符的分解和弦铺底。踏板要跟着和声换，右手的装饰音要唱得比主旋律更 frei。"
+        },
+        {
+          "n": 3,
+          "name": "Scherzo (Allegro)",
+          "about": "C 大调，三声中部转到 a 小调，节奏型的错位很明显。这一乐章要轻，但每一拍都得落地；速度一快就听不出那种刻意的切分。"
+        },
+        {
+          "n": 4,
+          "name": "Allegro assai",
+          "about": "C 大调回旋曲，中间插进双三度与八度的快速音型，尾声有一段几乎不停顿的冲刺。这是全曲的技术关口，手指得提前归位。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-4",
+      "composer": "贝多芬 Beethoven",
+      "title": "降E大调第四钢琴奏鸣曲「大奏鸣曲」Op.7",
+      "aka": [
+        "Piano Sonata No.4",
+        "Grande Sonate",
+        "第四钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*4\\b.{0,60}op\\.?\\s*7\\b",
+        "sonat[ae].{0,60}op\\.?\\s*7\\b"
+      ],
+      "about": "1796–97 年作，题献给凯格列维奇伯爵夫人，出版时自称「大奏鸣曲」。四个乐章将近半小时，是贝多芬第一首真正有「大结构」野心的奏鸣曲：第一乐章的主题由碎片拼成，第二乐章 Largo 沉得像葬礼，第三乐章的三声中部有叹息式的下行，末乐章回旋曲中途突然掉进 C 小调的阴影再爬出来。难点在结构的连贯——四个乐章各自的重量要配平，慢乐章不能拖成独立曲。它是早期通往中期「英雄风格」的桥，Op.13 的戏剧逻辑已经在这里成型。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-5",
+      "composer": "贝多芬 Beethoven",
+      "title": "c小调第五钢琴奏鸣曲 Op.10 No.1",
+      "aka": [
+        "Piano Sonata No.5",
+        "Sonate Nr. 5",
+        "第五钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*5\\b.{0,60}op\\.?\\s*10\\b",
+        "sonat[ae].{0,60}op\\.?\\s*10\\b[^0-9]{0,8}no\\.?\\s*1\\b",
+        "sonat[ae].{0,60}op\\.?\\s*10\\s*[/-]\\s*1\\b"
+      ],
+      "about": "1796–98 年间写成，Op.10 三首题献给布朗伯爵夫人。c 小调第一首是三首里最烈的一首：第一乐章用减七和弦与突强把句子切断，第二乐章 Adagio molto 转到降 A 大调，是贝多芬式「哀而不哭」的样本，末乐章回到 c 小调一路 Prestissimo。难点是休止与突强之间的控制——贝多芬把沉默当材料用，弹的人要敢停、又不能让音乐断气。它在分期上属于早期向中期过渡，和 Op.13 是同一个戏剧思路的两个版本。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-6",
+      "composer": "贝多芬 Beethoven",
+      "title": "F大调第六钢琴奏鸣曲 Op.10 No.2",
+      "aka": [
+        "Piano Sonata No.6",
+        "Sonate Nr. 6",
+        "第六钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*6\\b.{0,60}op\\.?\\s*10\\b",
+        "sonat[ae].{0,60}op\\.?\\s*10\\b[^0-9]{0,8}no\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*10\\s*[/-]\\s*2\\b"
+      ],
+      "about": "1798 年前后作，Op.10 三首中最小巧、最少戏剧性的一首，三乐章加起来不到十五分钟。第一乐章的主题短促、带附点，第二乐章标着 Allegretto，其实是一首怪脾气的「小步舞曲」：和声老是提前一步换，第三乐章 Presto 用赋格式的模仿收尾。难点全在轻巧上——节奏弹性、断句的幽默感，弹重了就失了味道。它常被当成 Op.10 里的配角，但那种「一句没说完就拐弯」的语气，后来在 Op.31 No.1 里被放大成了完整的美学。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-7",
+      "composer": "贝多芬 Beethoven",
+      "title": "D大调第七钢琴奏鸣曲 Op.10 No.3",
+      "aka": [
+        "Piano Sonata No.7",
+        "Sonate Nr. 7",
+        "第七钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*7\\b.{0,60}op\\.?\\s*10\\b",
+        "sonat[ae].{0,60}op\\.?\\s*10\\b[^0-9]{0,8}no\\.?\\s*3\\b",
+        "sonat[ae].{0,60}op\\.?\\s*10\\s*[/-]\\s*3\\b"
+      ],
+      "about": "1798 年作，Op.10 里分量最重的一首，四乐章。写它的时候贝多芬的耳疾已经明显恶化，第二乐章 Largo e mesto 的 d 小调悲歌常被看作这段心境最直接的证据：旋律几乎不动，和声每一步都在往下坠。第一乐章 Presto 的主题利落，第三乐章小步舞曲回到 D 大调，末乐章回旋曲用切分的重音不停打乱舞步。难点是慢乐章的「不动」——越少音符越难撑住，任何多余的揉句都会让它变甜。它是早期风格里第一次把「个人的阴暗」写进奏鸣曲的正式结构。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Presto",
+          "about": "D 大调，主题由短促的上行音型构成，副题在 A 大调上舒展。展开部大量用切分打乱步法，左手的八度要沉住，别跟着右手一起赶。"
+        },
+        {
+          "n": 2,
+          "name": "Largo e mesto",
+          "about": "d 小调，全曲的重心。旋律音域窄、重复多，靠和声的缓慢移动推进；结尾几小节几乎停住，弹的时候不能加任何装饰性的呼吸。"
+        },
+        {
+          "n": 3,
+          "name": "Menuetto (Allegro)",
+          "about": "D 大调小步舞曲，三声中部在 G 大调，节奏被刻意错置。要弹得端庄又带刺：重音稍微偏半拍，那句「不安」就出来了。"
+        },
+        {
+          "n": 4,
+          "name": "Rondo (Allegro)",
+          "about": "D 大调回旋曲，主题的弱拍重音贯穿始终，插部转向 d 小调。尾声的和弦一记接一记砸下来，速度别松，收得短促利落。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-8",
+      "composer": "贝多芬 Beethoven",
+      "title": "c小调第八钢琴奏鸣曲「悲怆」Op.13",
+      "aka": [
+        "Piano Sonata No.8",
+        "Pathétique",
+        "Sonate pathétique",
+        "悲怆奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*8\\b.{0,60}op\\.?\\s*13\\b",
+        "sonat[ae].{0,60}op\\.?\\s*13\\b",
+        "pat.{0,5}tique",
+        "悲怆"
+      ],
+      "about": "1798 年作，1799 年出版，题献给李希诺夫斯基亲王，是贝多芬第一首自己起标题的奏鸣曲。Grave 引子在首乐章开头与再现部之前两次回返，把整首曲子钉在同一个戏剧框架里；Adagio cantabile 是他写过最出名的旋律之一；末乐章回旋曲用 c 小调一路冲到底。难点在于引子的重量与快板的推进必须共享同一套逻辑，第二乐章左手的三连音分解又不能盖住旋律。它是早期风格的总结，也是「戏剧性奏鸣曲」这个类型的开端，之后的 Op.53、Op.57 都从这里的结构思路长出来。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Grave - Allegro di molto e con brio",
+          "about": "c 小调，沉重的 Grave 和弦之后是「曼海姆火箭」式的快板主题。引子在展开部前再现，是全曲的戏剧支柱；难点是两次引子的力度层次不能雷同。"
+        },
+        {
+          "n": 2,
+          "name": "Adagio cantabile",
+          "about": "降 A 大调，主题像一首无词的歌，中段转到 f 小调。左手的三连音要退成背景，右手每一句的收尾都不能一样。"
+        },
+        {
+          "n": 3,
+          "name": "Rondo (Allegro)",
+          "about": "c 小调回旋曲，主题带着叹息的下行二度，插部短暂转进降 E 大调。结尾用减和弦连续推进，收得干净利落。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-9",
+      "composer": "贝多芬 Beethoven",
+      "title": "E大调第九钢琴奏鸣曲 Op.14 No.1",
+      "aka": [
+        "Piano Sonata No.9",
+        "Sonate Nr. 9",
+        "第九钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*9\\b.{0,60}op\\.?\\s*14\\b",
+        "sonat[ae].{0,60}op\\.?\\s*14\\b[^0-9]{0,8}no\\.?\\s*1\\b",
+        "sonat[ae].{0,60}op\\.?\\s*14\\s*[/-]\\s*1\\b"
+      ],
+      "about": "1798–99 年作，Op.14 两首都是小规模、三乐章。第一首 E 大调用的是对话式写法：两个主题像两个人商量事情，谁也没压倒谁。第二乐章标 Allegretto，实际是一首 A 大调的小步舞曲加变奏，末乐章回旋曲轻快得近乎随意。难点是把「简」写出层次——音量变化很窄，全靠断句和音色区分。贝多芬后来自己把它改写成 F 大调弦乐四重奏，说明他看重这首的结构。它常被教材化，其实是有分寸感的成熟小品。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-10",
+      "composer": "贝多芬 Beethoven",
+      "title": "G大调第十钢琴奏鸣曲 Op.14 No.2",
+      "aka": [
+        "Piano Sonata No.10",
+        "Sonate Nr. 10",
+        "第十钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*10\\b.{0,60}op\\.?\\s*14\\b",
+        "sonat[ae].{0,60}op\\.?\\s*14\\b[^0-9]{0,8}no\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*14\\s*[/-]\\s*2\\b"
+      ],
+      "about": "1798–99 年作，与第九首成对。G 大调的第一乐章有两个性格分明的主题，一个跳跃、一个下行，呈示部里就把它们对撞了一次；第二乐章 Andante 用变奏手法，主题朴素，第三乐章 Scherzo 把重音放在弱拍上。难点是节奏的错位感与整体的轻盈——这首曲子最怕弹得「用功」。它常被当教材，但速度一放慢就露出和声的野心：吉列尔斯的录音第一乐章用了 8 分多钟，比肯普夫慢两分半，仍然立得住。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-11",
+      "composer": "贝多芬 Beethoven",
+      "title": "降B大调第十一钢琴奏鸣曲 Op.22",
+      "aka": [
+        "Piano Sonata No.11",
+        "Sonate Nr. 11",
+        "第十一钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*11\\b.{0,60}op\\.?\\s*22\\b",
+        "sonat[ae].{0,60}op\\.?\\s*22\\b"
+      ],
+      "about": "1800 年作，四乐章，被看作早期十一首奏鸣曲的收尾。它最端正：结构对称、主题清楚、几乎没有怪招，贝多芬自己很看重这首，对当时的人更喜欢 Op.7 颇有微词。第二乐章 Adagio con molto espressione 是全曲的重心，旋律的装饰要弹得像唱；第三乐章小步舞曲回到降 B 大调，末乐章回旋曲的节奏型贯穿始终。难点是四个乐章都要维持高级的「说话语调」——没有戏剧性可依靠，全靠句法与音色。它是早期风格的完成态，也是中期之前的最后一次平静。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-12",
+      "composer": "贝多芬 Beethoven",
+      "title": "降A大调第十二钢琴奏鸣曲「葬礼进行曲」Op.26",
+      "aka": [
+        "Piano Sonata No.12",
+        "Funeral March",
+        "Marcia funebre",
+        "第十二钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*12\\b.{0,60}op\\.?\\s*26\\b",
+        "sonat[ae].{0,60}op\\.?\\s*26\\b"
+      ],
+      "about": "1800–01 年作，四个乐章的顺序是「变奏—谐谑—葬礼—快板」，故意不按奏鸣曲的常理走。第一乐章是 Andante 主题加五段变奏，没有奏鸣曲式；第三乐章 Marcia funebre sulla morte d'un Eroe 是全曲的核心，也是贝多芬第一次在奏鸣曲里写葬礼进行曲。难点在于第一乐章的变奏要做出音色层次，末乐章那串十六分音符的「无穷动」不能弹成练习曲。肖邦的降 b 小调奏鸣曲葬礼乐章直接受了它的影响，这一条线在钢琴文献里很清楚。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-13",
+      "composer": "贝多芬 Beethoven",
+      "title": "降E大调第十三钢琴奏鸣曲「幻想曲风」Op.27 No.1",
+      "aka": [
+        "Piano Sonata No.13",
+        "Quasi una fantasia",
+        "第十三钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*13\\b.{0,60}op\\.?\\s*27\\b",
+        "sonat[ae].{0,60}op\\.?\\s*27\\b[^0-9]{0,8}no\\.?\\s*1\\b",
+        "sonat[ae].{0,60}op\\.?\\s*27\\s*[/-]\\s*1\\b"
+      ],
+      "about": "1800–01 年作，与「月光」同属 Op.27，两首都标为 quasi una fantasia。四个乐章要连着弹：开头 Andante 突然插进 Allegro 又退回 Tempo I，第二乐章是短促的谐谑，第三乐章 Adagio con espressione 直接 attacca 进末乐章，调性在降 E、c 小调、降 A 之间游移。难点是乐章之间的无缝衔接和调性漂移中的方向感——它不像传统奏鸣曲那样给听众落脚点。这首曲子把「幻想曲」的自由塞进了奏鸣曲的框里，是中期结构实验的试验田。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Andante - Allegro - Tempo I",
+          "about": "降 E 大调，安静的 Andante 被一段急促的 Allegro 打断，再退回原速。三段要连着走，速度关系定死，否则结构就散。"
+        },
+        {
+          "n": 2,
+          "name": "Allegro molto e vivace",
+          "about": "c 小调，只有两分多钟，节奏锋利，像突然插进来的一个念头。重音要落在弱拍上，左右手不能错位，弹得越干脆越好。"
+        },
+        {
+          "n": 3,
+          "name": "Adagio con espressione",
+          "about": "降 A 大调，短而歌唱，结尾几小节故意不解决，直接推进末乐章。踏板在这里要留一点混响当桥梁，不能换得太干净。"
+        },
+        {
+          "n": 4,
+          "name": "Allegro vivace - Tempo I - Presto",
+          "about": "降 E 大调，回旋曲式，中段回忆第一乐章的 Andante，最后加速收尾。要弹出「回头看」的意味，速度别抢在拍子前面。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-14",
+      "composer": "贝多芬 Beethoven",
+      "title": "升c小调第十四钢琴奏鸣曲「月光」Op.27 No.2",
+      "aka": [
+        "Piano Sonata No.14",
+        "Moonlight",
+        "Clair de lune",
+        "Mondschein",
+        "月光奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*14\\b.{0,60}op\\.?\\s*27\\b",
+        "sonat[ae].{0,60}op\\.?\\s*27\\b[^0-9]{0,8}no\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*27\\s*[/-]\\s*2\\b",
+        "moonlight",
+        "月光奏鸣曲"
+      ],
+      "about": "1801 年作，题献给朱丽叶塔·圭恰尔迪伯爵小姐，「月光」这个名字是 1830 年代诗人雷尔斯塔布听第一乐章后起的比喻，贝多芬本人没用过。第一乐章从头到尾是同一组三连音，旋律几乎不成句；第二乐章是降 D 大调的小步舞曲式间奏；第三乐章 Presto agitato 才是真正的暴风，sforzando 一个接一个。难点在第一乐章——极弱的持续三连音里要保持旋律的呼吸，踏板一多就糊成一片；第三乐章则要真的急，不能只是响。它是奏鸣曲史上最被误读的一首，把它当「浪漫夜曲」听会漏掉末乐章的愤怒。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Adagio sostenuto",
+          "about": "升 c 小调，三连音贯穿全篇，旋律浮在最上面。踏板要按和声换，右手的三连音与左手的八度必须分成两个层次，很多人弹成一片。"
+        },
+        {
+          "n": 2,
+          "name": "Allegretto",
+          "about": "降 D 大调，短小的谐谑，三声中部在降 d 小调上突然转暗。它是两个大乐章之间唯一的缓冲，速度一拖，整首曲子的比例就坏了。"
+        },
+        {
+          "n": 3,
+          "name": "Presto agitato",
+          "about": "升 c 小调，奏鸣曲式，主题是上行的琶音加突强。展开部的连续八度与末尾的琶音冲刺是技术关口；踏板要短，让每一下都听得清。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-15",
+      "composer": "贝多芬 Beethoven",
+      "title": "D大调第十五钢琴奏鸣曲「田园」Op.28",
+      "aka": [
+        "Piano Sonata No.15",
+        "Pastorale",
+        "第十五钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*15\\b.{0,60}op\\.?\\s*28\\b",
+        "sonat[ae].{0,60}op\\.?\\s*28\\b"
+      ],
+      "about": "1801 年作，四个乐章，标题「Pastorale」是出版者后来加的，贝多芬没这么叫过。它的特征是低音持续音：第一乐章开头和再现部都有长时间的踏板音，像风笛；第二乐章是 d 小调的进行曲，阴了一下；第三乐章谐谑，末乐章回旋曲从头到尾是均匀的流动。难点是低音持续音不能糊成一团，踏板要分段踩；另外四个乐章都缺少强烈的对比，要靠音色和呼吸撑住。它和同期的「月光」几乎是反义词，一个向内，一个向田野。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-16",
+      "composer": "贝多芬 Beethoven",
+      "title": "G大调第十六钢琴奏鸣曲 Op.31 No.1",
+      "aka": [
+        "Piano Sonata No.16",
+        "Sonate Nr. 16",
+        "第十六钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*16\\b.{0,60}op\\.?\\s*31\\b",
+        "sonat[ae].{0,60}op\\.?\\s*31\\b[^0-9]{0,8}no\\.?\\s*1\\b",
+        "sonat[ae].{0,60}op\\.?\\s*31\\s*[/-]\\s*1\\b"
+      ],
+      "about": "1802 年作，Op.31 三首的第一首，也是贝多芬自称「要走一条新路」那段时间的产物。它最出名的特点是喜剧感：第一乐章开头那个短小的乐句反复被打断、接不上，像说笑话讲到一半被自己噎住；第二乐章 Adagio grazioso 有大量华丽的装饰音，当时被批评「太花」，其实是把声乐的即兴装饰搬到了钢琴上；末乐章是喜剧式的回旋。难点在幽默——停顿、重音错位、突然的转调都要精准，弹得严肃就全错了。它在分期上通常被划为中期开端。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-17",
+      "composer": "贝多芬 Beethoven",
+      "title": "d小调第十七钢琴奏鸣曲「暴风雨」Op.31 No.2",
+      "aka": [
+        "Piano Sonata No.17",
+        "The Tempest",
+        "Der Sturm",
+        "Tempest",
+        "暴风雨奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*17\\b.{0,60}op\\.?\\s*31\\b",
+        "sonat[ae].{0,60}op\\.?\\s*31\\b[^0-9]{0,8}no\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*31\\s*[/-]\\s*2\\b",
+        "the tempest.{0,40}op\\.?\\s*31\\b",
+        "暴风雨"
+      ],
+      "about": "1802 年作，Op.31 三首的中篇。全曲到处是「没有解决」的声音：第一乐章开头是 Largo 的琶音，好像还没决定调性就开始了；展开部里减七和弦反复出现，却总差一步落不到底；末乐章干脆用无休止的 3/8 流动，结尾不总结，直接消逝。所谓「暴风雨」来自辛德勒的转述——贝多芬让他去读莎士比亚。难点是结构与朦胧感：踏板要让和声叠出雾，但不能把句法糊掉；第一乐章的速度关系定错，全曲就变成两个不相干的乐章。它是中期「开放结构」最激进的一次尝试。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Largo - Allegro",
+          "about": "d 小调，先是迟疑的琶音，再爆出快板主题。呈示部的第二主题在 a 小调上，展开部几乎不给出稳定的调中心；结尾把 Largo 的素材带回来，但不解决。"
+        },
+        {
+          "n": 2,
+          "name": "Adagio",
+          "about": "降 B 大调，全曲唯一的休息。旋律朴素，靠左手的分解和弦托着；附点节奏要放松又不能散成即兴，弹得太「美」反而假。"
+        },
+        {
+          "n": 3,
+          "name": "Allegretto",
+          "about": "d 小调，3/8 的无穷动，主题不断被半音打断。尾声逐渐抽掉力度，最后几个音像风停了一样收住，不能加任何强调。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-18",
+      "composer": "贝多芬 Beethoven",
+      "title": "降E大调第十八钢琴奏鸣曲「狩猎」Op.31 No.3",
+      "aka": [
+        "Piano Sonata No.18",
+        "The Hunt",
+        "Die Jagd",
+        "第十八钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*18\\b.{0,60}op\\.?\\s*31\\b",
+        "sonat[ae].{0,60}op\\.?\\s*31\\b[^0-9]{0,8}no\\.?\\s*3\\b",
+        "sonat[ae].{0,60}op\\.?\\s*31\\s*[/-]\\s*3\\b"
+      ],
+      "about": "1802 年作，Op.31 三首中最外向的一首。它有个反常的布局：第二乐章不是慢乐章，而是 2/4 的 Scherzo（标 Allegretto vivace），真正的慢速只出现在小步舞曲的三声中部里；末乐章是 6/8 的塔兰泰拉式急板。第一乐章开头那个不解决的七度直接跳出来，「狩猎」这个后加的标题就来自号角式的动机。难点是把「谐谑」和「号角」统一在同一口气里——四个乐章的速度都很轻快，靠的是重音的落点而不是力度。它是中期里最少阴云的一首，和「暴风雨」正好相反。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro",
+          "about": "降 E 大调，开头是带七度的跳跃动机，副题在降 B 大调上更连绵。展开部把动机拆成号角式短句，节奏要利落。"
+        },
+        {
+          "n": 2,
+          "name": "Scherzo (Allegretto vivace)",
+          "about": "2/4 的快速谐谑，三声中部才是慢速。这里最容易被弹成慢乐章，一慢下来整个四乐章的布局就垮了；右手要轻，左手给骨架。"
+        },
+        {
+          "n": 3,
+          "name": "Menuetto (Moderato e grazioso)",
+          "about": "降 E 大调，优雅的小步舞曲，中段有突然的 c 小调阴影。要保持舞步的从容，装饰音要唱出来，不能拖成慢速。"
+        },
+        {
+          "n": 4,
+          "name": "Presto con fuoco",
+          "about": "6/8 塔兰泰拉式的急板，主题是下行的三连音。尾声一路加速，但每一拍的落点都要清楚，踏板别糊掉重音，收得干脆。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-19",
+      "composer": "贝多芬 Beethoven",
+      "title": "g小调第十九钢琴奏鸣曲 Op.49 No.1",
+      "aka": [
+        "Piano Sonata No.19",
+        "Leichte Sonate",
+        "第十九钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*19\\b.{0,60}op\\.?\\s*49\\b",
+        "sonat[ae].{0,60}op\\.?\\s*49\\b[^0-9]{0,8}no\\.?\\s*1\\b",
+        "sonat[ae].{0,60}op\\.?\\s*49\\s*[/-]\\s*1\\b"
+      ],
+      "about": "写于 1790 年代中，1805 年才和 Op.49 No.2 一起出版，是两首「简易奏鸣曲」。两个乐章、没有展开部，篇幅不到十分钟，明显是给学生用的。但 g 小调的底色不轻松：第一乐章 Andante 的主题带附点，第二乐章回旋曲在 g 小调与降 B 大调之间摆。难点不在技巧，在句法的干净——音符少，任何一处多余的重音都听得见。它被教材用得太多，反而少有人认真对待；把它当 Op.13 的小型前奏来听，会听到同一个 g 小调的阴影。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-20",
+      "composer": "贝多芬 Beethoven",
+      "title": "G大调第二十钢琴奏鸣曲 Op.49 No.2",
+      "aka": [
+        "Piano Sonata No.20",
+        "Leichte Sonate",
+        "第二十钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*20\\b.{0,60}op\\.?\\s*49\\b",
+        "sonat[ae].{0,60}op\\.?\\s*49\\b[^0-9]{0,8}no\\.?\\s*2\\b",
+        "sonat[ae].{0,60}op\\.?\\s*49\\s*[/-]\\s*2\\b"
+      ],
+      "about": "与 Op.49 No.1 同期，1790 年代中写成，1805 年出版。两个乐章：第一乐章 Allegro ma non troppo 的主题是贝多芬最平易的旋律之一，第二乐章 Tempo di Menuetto 用变奏式的重复。它是全世界琴童弹得最多的一首贝多芬奏鸣曲，也因此最容易被弹成「练习」——速度一快就轻浮，一慢就拖。真正的难点是让那个朴素的主题听起来有分量，左手不能只是伴奏。写它的时候贝多芬还没写出 Op.13，两首 Op.49 更像他的写作练习，但句法的分寸已经是成手。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-21",
+      "composer": "贝多芬 Beethoven",
+      "title": "C大调第二十一钢琴奏鸣曲「华尔斯坦／黎明」Op.53",
+      "aka": [
+        "Piano Sonata No.21",
+        "Waldstein",
+        "华尔斯坦",
+        "黎明奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*21\\b.{0,60}op\\.?\\s*53\\b",
+        "sonat[ae].{0,60}op\\.?\\s*53\\b",
+        "waldstein"
+      ],
+      "about": "1803–04 年作，题献给华德斯坦伯爵，中期「英雄风格」的开端。第一乐章用 C 大调三和弦的反复敲击开场，主题几乎是一堆碎片，靠节奏把它们粘起来；中间原本写的是《可爱的行板》Andante favori，贝多芬嫌太长，换成了只有两分多钟的 Introduzione；末乐章回旋曲有一段长时间的极弱持续音，然后突然 Prestissimo 冲刺收尾。「黎明」是后人的比喻，不是标题。难点很硬：第一乐章的大跳与连续八度推进要稳，末乐章那段 pp 需要极长的耐力与精确的踏板分层，稍一用力就破。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro con brio",
+          "about": "C 大调，开场是断奏的三和弦与轻盈的琶音，副题在 E 大调上歌唱。展开部对碎片动机做大量转调，尾声明亮；大跳与八度要弹得干净。"
+        },
+        {
+          "n": 2,
+          "name": "Introduzione (Adagio molto)",
+          "about": "只有两分多钟的引子，是贝多芬用来替换《可爱的行板》的。和声在 f 小调与 C 大调之间摇摆，结尾停在属和弦上直接进末乐章。"
+        },
+        {
+          "n": 3,
+          "name": "Rondo (Allegretto moderato - Prestissimo)",
+          "about": "C 大调回旋曲，中段有一段长时间的极弱持续音与高音区的钟声式音型，是全曲最难撑的地方；随后 Prestissimo 的尾声把速度提到极限。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-22",
+      "composer": "贝多芬 Beethoven",
+      "title": "F大调第二十二钢琴奏鸣曲 Op.54",
+      "aka": [
+        "Piano Sonata No.22",
+        "Sonate Nr. 22",
+        "第二十二钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*22\\b.{0,60}op\\.?\\s*54\\b",
+        "sonat[ae].{0,60}op\\.?\\s*54\\b"
+      ],
+      "about": "1804 年作，夹在 Op.53 与 Op.57 之间，只有两个乐章，是全集里最怪的一首。第一乐章标 In tempo d'un Menuetto，但速度比小步舞曲快，主题的手腕是「一条线反复起落」；第二乐章 Allegretto 是一首 perpetuum mobile，十六分音符几乎不停，中间突然插进一段沉重的八度。两个乐章都不按奏鸣曲的常理走，所以常被说成「不成奏鸣曲的奏鸣曲」。难点是织体的怪：节奏型的机械感要弹出张力，不能真的像节拍器。它是中期最被低估的一首，很多钢琴家宁愿跳过。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-23",
+      "composer": "贝多芬 Beethoven",
+      "title": "f小调第二十三钢琴奏鸣曲「热情」Op.57",
+      "aka": [
+        "Piano Sonata No.23",
+        "Appassionata",
+        "热情奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*23\\b.{0,60}op\\.?\\s*57\\b",
+        "sonat[ae].{0,60}op\\.?\\s*57\\b",
+        "appassionata"
+      ],
+      "about": "1804–05 年作，题献给弗朗茨·冯·布伦斯维克伯爵，中期最集中的一次爆发。第一乐章的主题是 f 小调的琶音，低音区像闷雷，第二乐章换成降 D 大调的变奏，几乎不动声色，然后 attacca 直接冲进末乐章的无穷动八分音符，最后 Presto 收尾。标题「Appassionata」不是贝多芬起的，1838 年出版商为四手联弹改编版才加上。难点是全曲不能在「用力」里耗尽：第二乐章的变奏必须真的变化，末乐章的持续跑动要靠手腕而不是胳膊。它是中期风格的顶点，此后的 Op.78 就转向内敛了。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro assai",
+          "about": "f 小调，主题由低音区的琶音与下行二度组成，副题在降 A 大调上安静下来。展开部把琶音动机推到极限，尾声明亮而凶。肯普夫用 9 分 54，吉列尔斯 11 分 07。"
+        },
+        {
+          "n": 2,
+          "name": "Andante con moto",
+          "about": "降 D 大调，主题加三段变奏，情绪被压得很低。右手要保持歌的线条，左手的和弦不能抢；结尾不解决，直接连到末乐章。"
+        },
+        {
+          "n": 3,
+          "name": "Allegro ma non troppo",
+          "about": "f 小调，无穷动式的八分音符主题，中间插进一段 F 大调的对比。尾声的 Presto 是体力考验，速度要留住最后的余量。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-24",
+      "composer": "贝多芬 Beethoven",
+      "title": "升F大调第二十四钢琴奏鸣曲「泰蕾兹」Op.78",
+      "aka": [
+        "Piano Sonata No.24",
+        "À Thérèse",
+        "A Thérèse",
+        "第二十四钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*24\\b.{0,60}op\\.?\\s*78\\b",
+        "sonat[ae].{0,60}op\\.?\\s*78\\b"
+      ],
+      "about": "1809 年作，题献给泰蕾兹·冯·布伦斯维克伯爵夫人，两个乐章加起来才十分钟，是全集里最短的一首，贝多芬自己说这是他最满意的奏鸣曲之一。第一乐章只有两个动机构成，一个上行、一个下行，几乎像一句格言；第二乐章是轻快的回旋，主题一出现就结束。难点是「短」——没有篇幅可以铺陈，开头三小节就必须把全曲的性格交代清楚；另外两个乐章之间的气要连着。它常被当作小品跳过，其实是中期最后的精品，往后就是 Op.81a 的告别和晚期的门槛。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-25",
+      "composer": "贝多芬 Beethoven",
+      "title": "G大调第二十五钢琴奏鸣曲「布谷鸟」Op.79",
+      "aka": [
+        "Piano Sonata No.25",
+        "Cuckoo",
+        "Kuckuck",
+        "第二十五钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*25\\b.{0,60}op\\.?\\s*79\\b",
+        "sonat[ae].{0,60}op\\.?\\s*79\\b",
+        "cuckoo"
+      ],
+      "about": "1809 年作，出版时叫 Sonatina，三乐章不到十分钟。第一乐章 Presto alla tedesca 用德式舞曲的节奏，下行三度的动机就是标题「布谷鸟」的来处；第二乐章 Andante 在 G 小调上阴了一下；末乐章 Vivace 轻快收尾。难点是轻——音量变化窄、织体薄，全靠句尾的收放和舞曲的弹性，用力就变得笨。它是教学曲里质量最高的一首，但正因如此被弹滥了：能把它弹得有趣，比弹一首大曲子更难。分期上它属于中期末尾，同期还有 Op.78 和 Op.81a。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-26",
+      "composer": "贝多芬 Beethoven",
+      "title": "降E大调第二十六钢琴奏鸣曲「告别」Op.81a",
+      "aka": [
+        "Piano Sonata No.26",
+        "Les Adieux",
+        "Das Lebewohl",
+        "告别奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*26\\b.{0,60}op\\.?\\s*81a\\b",
+        "sonat[ae].{0,60}op\\.?\\s*81a\\b",
+        "adieux",
+        "lebewohl",
+        "告别"
+      ],
+      "about": "1809–10 年作，题献给鲁道夫大公。1809 年 5 月法军占领维也纳，大公出走，贝多芬把这三个乐章写成一次离别：Das Lebewohl（告别）、Abwesenheit（不在）、Das Wiedersehen（重逢）。第一乐章开头的三个音 G–F–降 E 被标上「Le-be-wohl」三个音节，是全曲的细胞；第二乐章用减和弦与半音下沉写出空荡；末乐章速度快、情绪回暖。难点是标题性不能压过音乐：第一乐章的号角动机与离别情绪必须同时成立。它是贝多芬第一首完整的标题奏鸣曲。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Das Lebewohl (Adagio - Allegro)",
+          "about": "降 E 大调，开头三音动机带「Le-be-wohl」的文字标记，号角式的快板随后展开。离别与进行曲两种性格要在同一乐章里共存。"
+        },
+        {
+          "n": 2,
+          "name": "Abwesenheit (Andante espressivo)",
+          "about": "c 小调，和声不停往下沉，旋律是断的。踏板要短促，让空荡感出来；这一乐章最容易弹得拖沓，守住「Andante」就够。"
+        },
+        {
+          "n": 3,
+          "name": "Das Wiedersehen (Vivacissimamente)",
+          "about": "降 E 大调，回归的喜悦，主题由快速的上行音型构成。结尾加速但不能失控，最后几小节要把第一乐章的号角动机找回来。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-27",
+      "composer": "贝多芬 Beethoven",
+      "title": "e小调第二十七钢琴奏鸣曲 Op.90",
+      "aka": [
+        "Piano Sonata No.27",
+        "Sonate Nr. 27",
+        "第二十七钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*27\\b.{0,60}op\\.?\\s*90\\b",
+        "sonat[ae].{0,60}op\\.?\\s*90\\b"
+      ],
+      "about": "1814 年作，题献给莫里茨·李希诺夫斯基伯爵，两个乐章。第一乐章 e 小调，主题不安、突然爆出 E 大调的和弦又跌回去，是全曲的冲突所在；第二乐章是 E 大调的歌唱性回旋，标着 Nicht zu geschwind und sehr singbar vorzutragen（不要太快，要唱得很美），贝多芬晚期「歌」的美学在这里第一次成形。难点是第二乐章的自由速度与呼吸——它不允许任何机械的分句。它站在中期与晚期的分界线上：结构还是古典的，语气已经是他最后十年的那种。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-28",
+      "composer": "贝多芬 Beethoven",
+      "title": "A大调第二十八钢琴奏鸣曲 Op.101",
+      "aka": [
+        "Piano Sonata No.28",
+        "Sonate Nr. 28",
+        "第二十八钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*28\\b.{0,60}op\\.?\\s*101\\b",
+        "sonat[ae].{0,60}op\\.?\\s*101\\b"
+      ],
+      "about": "1816 年作，题献给多罗泰娅·埃特曼男爵夫人，是晚期三首之前的第一首「新东西」。它用德文写速度标记（Etwas lebhaft），把表情直接写进术语里；第一乐章有进行曲的节奏，第三乐章 Langsam und sehnsuchtsvoll 突然回忆第一乐章的主题，然后 attacca 进末乐章的赋格。难点是结构自由与复调的衔接：宣叙性的段落要弹得像说话，赋格又必须严格。它开了 Op.106、Op.109–111 的门，之后的奏鸣曲都沿着这条「乐章互相渗透」的路走。",
+      "movements": []
+    },
+    {
+      "id": "beethoven-piano-sonata-29",
+      "composer": "贝多芬 Beethoven",
+      "title": "降B大调第二十九钢琴奏鸣曲「槌子键」Op.106",
+      "aka": [
+        "Piano Sonata No.29",
+        "Hammerklavier",
+        "Hammer-Klavier",
+        "槌子键琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*29\\b.{0,60}op\\.?\\s*106\\b",
+        "sonat[ae].{0,60}op\\.?\\s*106\\b",
+        "hammer.{0,4}klavier",
+        "槌子键"
+      ],
+      "about": "1817–18 年作，题献给鲁道夫大公，标题 Große Sonate für das Hammerklavier 指的是当时新式的英国槌击钢琴。它是贝多芬最庞大的一首：四乐章将近四十五分钟，第一乐章开头就要求跨越两个八度的大跳，第三乐章 Adagio sostenuto 长达十五分钟以上，末乐章在 Largo 引子之后接一个三声部赋格，用了倒影与扩大。难点是体力与结构记忆——第三乐章不能弹成静止的沉思，赋格又必须让四个声部各自清楚；他标的节拍机数字至今仍在争论。它是晚期风格的宣言。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Allegro",
+          "about": "降 B 大调，开场的上行大跳直接定下「不可能」的基调，主题由三度和弦与附点节奏组成。展开部极长，尾声几乎是一个独立乐章；肯普夫 8 分 52，吉列尔斯 12 分 24。"
+        },
+        {
+          "n": 2,
+          "name": "Scherzo (Assai vivace - Presto)",
+          "about": "降 B 大调，2/4 的谐谑，节奏被切得很碎，三声中部转到降 B 小调。要弹得干脆，速度不能为了清楚而放慢。"
+        },
+        {
+          "n": 3,
+          "name": "Adagio sostenuto",
+          "about": "升 f 小调，全曲的重心，主题几乎不动，靠和声的缓慢移动与装饰推进。踏板要分层，右手的装饰音是呼吸不是音符；长，但不能拖成停滞。"
+        },
+        {
+          "n": 4,
+          "name": "Largo - Allegro risoluto",
+          "about": "先是 Largo 的宣叙式引子，然后三声部赋格，主题有倒影与扩大。结构必须记住，否则中段会散；结尾回到降 B 大调，收得极干脆。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-30",
+      "composer": "贝多芬 Beethoven",
+      "title": "E大调第三十钢琴奏鸣曲 Op.109",
+      "aka": [
+        "Piano Sonata No.30",
+        "Sonate Nr. 30",
+        "第三十钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*30\\b.{0,60}op\\.?\\s*109\\b",
+        "sonat[ae].{0,60}op\\.?\\s*109\\b"
+      ],
+      "about": "1820 年作，题献给马克西米利安娜·布伦塔诺，晚期三首的第一首，也是最内向的一首。第一乐章只有两个对比素材，快速交替、来去无踪；第二乐章 Prestissimo 只有两分多钟，像一记短促的打断；第三乐章是主题与六段变奏（Gesangvoll, mit innigster Empfindung），最后一变奏用颤音与高音区的音型把音乐抬到几乎听不见的地方。难点是末乐章的方向感——六段变奏必须构成一个过程，散了就成了六个独立的段落。它没有 Op.106 的体量，但情绪的纯度更高。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Vivace, ma non troppo - Adagio espressivo - Tempo I",
+          "about": "E 大调，两个素材交替出现：一个快速流动，一个宣叙般缓慢。速度切换要果断，像两种念头来回，中间不能有接缝。"
+        },
+        {
+          "n": 2,
+          "name": "Prestissimo",
+          "about": "e 小调，只有两分多钟，节奏锋利。它更像一个间奏而不是独立乐章，结尾故意不解决，把音乐直接交给末乐章。"
+        },
+        {
+          "n": 3,
+          "name": "Gesangvoll, mit innigster Empfindung (Andante molto cantabile ed espressivo)",
+          "about": "E 大调，主题加六段变奏：第三段快、第四段极慢、第五段是赋格式的，末段用颤音与高音区消散。整章要有一个往上走的方向。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-31",
+      "composer": "贝多芬 Beethoven",
+      "title": "降A大调第三十一钢琴奏鸣曲 Op.110",
+      "aka": [
+        "Piano Sonata No.31",
+        "Sonate Nr. 31",
+        "第三十一钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*31\\b.{0,60}op\\.?\\s*110\\b",
+        "sonat[ae].{0,60}op\\.?\\s*110\\b"
+      ],
+      "about": "1821 年作，三乐章，是晚期三首中最「私人」的一首。第一乐章 Moderato cantabile 温柔得反常；第二乐章 Allegro molto 是短促的谐谑，突然把人推醒；第三乐章从 Adagio（Arioso dolente，标着「疲惫、哀哭」）开始，接一个赋格，赋格被同一段哀歌打断，然后以 G 小调再出现，最后回到降 A 大调。难点是宣叙调的自由与赋格的严格必须共存——哀歌段落要弹得像即兴，赋格又要每个声部都立住。它的结构像一次修补：破碎的东西被复调缝起来，这是晚期最典型的手势。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Moderato cantabile molto espressivo",
+          "about": "降 A 大调，主题温和，附点节奏贯穿全章。难点是保持歌唱性，同时让内声部线条清楚，别把中声部弹成伴奏。"
+        },
+        {
+          "n": 2,
+          "name": "Allegro molto",
+          "about": "f 小调，两分钟不到的谐谑，节奏强硬。它是全曲唯一的对照，弹得要突然、不客气，像硬插进来的另一段音乐。"
+        },
+        {
+          "n": 3,
+          "name": "Adagio ma non troppo - Fuga (Allegro ma non troppo)",
+          "about": "先是 Arioso dolente 的哀歌，然后三声部赋格；赋格中断，哀歌在 G 小调上再起，最后赋格回到降 A 大调。宣叙的自由与复调的严格要同时成立。"
+        }
+      ]
+    },
+    {
+      "id": "beethoven-piano-sonata-32",
+      "composer": "贝多芬 Beethoven",
+      "title": "c小调第三十二钢琴奏鸣曲 Op.111",
+      "aka": [
+        "Piano Sonata No.32",
+        "Sonate Nr. 32",
+        "第三十二钢琴奏鸣曲"
+      ],
+      "match": [
+        "sonat[ae].{0,20}no\\.?\\s*32\\b.{0,60}op\\.?\\s*111\\b",
+        "sonat[ae].{0,60}op\\.?\\s*111\\b"
+      ],
+      "about": "1821–22 年作，题献给鲁道夫大公，只有两个乐章，写完它贝多芬再没碰过奏鸣曲。第一乐章 Maestoso 用减七和弦的暴烈开场，Allegro con brio ed appassionato 一路推进，结尾不解决就停下；第二乐章是 Arietta 加五段变奏，9/16 的切分被形容为「爵士」，第三变奏的颤音与高音区的奔跑把音乐带到极远处，最后几个和弦轻得像消失。难点几乎全在第二乐章：五段变奏要构成一次「上升」，颤音段落对手指和踏板都是极限。它是这个体裁的终点之一，也是晚期风格最纯的样本。",
+      "movements": [
+        {
+          "n": 1,
+          "name": "Maestoso - Allegro con brio ed appassionato",
+          "about": "c 小调，减七和弦的序奏之后是暴烈的快板主题，副题短暂转进降 A 大调。结尾停在属和弦上，不做总结。"
+        },
+        {
+          "n": 2,
+          "name": "Arietta (Adagio molto semplice e cantabile)",
+          "about": "C 大调，主题朴素到近乎平凡，五段变奏逐渐加速、加花，第三变奏的切分与颤音是全曲的技术与精神高点；结尾几个和弦几乎听不见。"
+        }
+      ]
+    }
+  ]
+}

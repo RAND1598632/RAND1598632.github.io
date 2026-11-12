@@ -1,0 +1,239 @@
+{
+ "group": "manual",
+ "albums": [
+  {
+   "name": "Beethoven - Symphony 9 (BPO) - Furtwängler [1942-04-19]",
+   "track_works": [
+    "",
+    "beethoven-sym9",
+    "beethoven-sym9",
+    "beethoven-sym9",
+    "beethoven-sym9",
+    ""
+   ]
+  },
+  {
+   "name": "Mozart - Divertimento KV 334 (Collegium Aureum) [1981]",
+   "track_works": [
+    "mozart-k334",
+    "mozart-k334",
+    "mozart-k334",
+    "mozart-k334",
+    "mozart-k334",
+    "mozart-k334"
+   ]
+  },
+  {
+   "name": "Shostakovich - Complete Symphonies - Inbal [11CD]",
+   "track_works": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "shostakovich-sym7",
+     "shostakovich-sym7",
+     "shostakovich-sym7",
+     "shostakovich-sym7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14",
+     "shostakovich-sym14"
+    ]
+   ]
+  },
+  {
+   "name": "Wagner - Ring des Nibelungen (BPO) - Karajan [DG 24-96 BD]",
+   "arc_tracks": [
+    "Das Rheingold（莱茵的黄金）",
+    "Die Walküre（女武神）",
+    "Siegfried（齐格弗里德）",
+    "Götterdämmerung（诸神的黄昏）"
+   ]
+  },
+  {
+   "name": "_流行",
+   "title_display": "流行与试音碟合集（Eagles / 蔡琴 / 惠威 / Кино）"
+  },
+  {
+   "name": "_俄语歌唱",
+   "title_display": "俄苏歌曲合集（红军歌舞团 / 俄罗斯民歌 / 帕赫穆托娃）"
+  },
+  {
+   "name": "[_DVD]",
+   "title_display": "影像资料（DVD-Video 三场实况）"
+  },
+  {
+   "name": "[_解释]",
+   "title_display": "库内说明文档"
+  }
+ ],
+ "works": [
+  {
+   "id": "beethoven-sym5",
+   "composer": "贝多芬 Beethoven",
+   "title": "c 小调第五交响曲「命运」Op.67",
+   "aka": [
+    "Symphony No.5",
+    "Symphonie Nr. 5",
+    "第五交响曲"
+   ],
+   "match": [
+    "symphon\\w*.{0,16}\\bno\\.?\\s*5\\b.{0,26}op\\.?\\s*67",
+    "第五交响曲",
+    "c\\s*小调第五"
+   ],
+   "about": "1804 至 1808 年间写成，与第六交响曲同场首演于 1808 年 12 月 22 日的维也纳。四个乐章从 c 小调走到 C 大调，是古典交响曲里第一次把「从黑暗到光明」写成整部作品的结构而不是一个乐章的修辞。著名的四音动机不是「命运敲门」——那个说法出自贝多芬的秘书申德勒，可信度不高；但动机确实贯穿全曲，并在第三乐章末尾以低音弦的拨奏重新出现，把末乐章硬生生推出来。1808 年那场首演条件极差，乐团没排够，乐队在第四乐章中途乱了套，贝多芬当场叫停重来。",
+   "movements": [
+    {
+     "n": 1,
+     "name": "Allegro con brio",
+     "about": "奏鸣曲式，但呈示部只有两个主题，第二个是第一个的变形而不是对比。四音动机在不同音高上反复撞击，中间的圆号号角把动机拉成和弦。发展部把动机拆到只剩节奏，再现部把双簧管的一段华彩式独奏留在进入尾声之前——这是贝多芬少见的手下留情。"
+    },
+    {
+     "n": 2,
+     "name": "Andante con moto",
+     "about": "降 A 大调变奏曲式，两个主题交替变奏：一个抒情，一个像进行曲。音色从中提琴与大提琴的齐奏开始，逐渐加厚到全奏，最后以一段突然结束的琶音收尾，不解决，直接把这个情绪留下。"
+    },
+    {
+     "n": 3,
+     "name": "Scherzo. Allegro",
+     "about": "第三乐章表面是谐谑曲，实际又回到 c 小调的动机，与第一乐章同源。中段是 C 大调的低音提琴与大提琴的卡农，粗壮而幽默。末尾有一段很长的减弱过渡，主题只剩拨弦的骨架，是全曲张力的最低点，也是为了让末乐章站起来。"
+    },
+    {
+     "n": 4,
+     "name": "Allegro",
+     "about": "末乐章用长号、短笛、低音大管——这三件乐器在当时的交响曲里几乎不出现在第四乐章，它们的加入就是「光」的音响标志。奏鸣曲式，尾声有一段新的主题（coda 主题），把全曲再推一次高潮，然后是四十多小节的持续和弦收尾，干净利落。"
+    }
+   ]
+  },
+  {
+   "id": "beethoven-sym6",
+   "composer": "贝多芬 Beethoven",
+   "title": "F 大调第六交响曲「田园」Op.68",
+   "aka": [
+    "Symphony No.6",
+    "Pastoral",
+    "Symphonie Nr. 6",
+    "田园"
+   ],
+   "match": [
+    "symphon\\w*.{0,18}\\bno\\.?\\s*6\\b.{0,28}op\\.?\\s*68",
+    "田园交响",
+    "pastoral\\s*symph"
+   ],
+   "about": "1808 年与第五交响曲同场首演。贝多芬给每个乐章都写了标题，却在总谱上注明「更多是表达感情而不是绘画」——这句话是他对标题音乐的自我防御。五乐章结构在交响曲里不常见，第三、四、五乐章连续演奏，是全曲最有设计感的地方：乡村舞会、暴风雨、雨后的感恩赞，一条情绪线把「人在自然里」写完整。",
+   "movements": [
+    {
+     "n": 1,
+     "name": "Allegro ma non troppo",
+     "about": "F 大调的「到达乡村时的愉快心情」。开头有一段很长的铺垫，主题在多种乐器间传递，像视线慢慢打开。低音持续音与反复的短句让人感到一种不着急的从容。"
+    },
+    {
+     "n": 2,
+     "name": "Andante molto moto",
+     "about": "降 B 大调的「溪边景色」。弦乐用十六分音符的流动音型铺底，木管模仿夜莺（长笛）、鹌鹑（双簧管）、杜鹃（单簧管）的叫声，结尾处三件乐器同时鸣叫，是全曲最有名的「画」。"
+    },
+    {
+     "n": 3,
+     "name": "Allegro",
+     "about": "F 大调的「乡村欢乐的集会」。三拍子的舞曲，粗朴，低音管与双簧管轮流扮演吹唢呐的农民。速度很快，句尾常常收得突然，像笑到一半停住。"
+    },
+    {
+     "n": 4,
+     "name": "Allegro",
+     "about": "「暴风雨」。f 小调，定音鼓的滚奏、低音弦的半音阶、短笛的尖啸一起上来，是当时交响曲里最写实的音响。只有几分钟，但动态幅度极大——这一段是整套录音的试金石。"
+    },
+    {
+     "n": 5,
+     "name": "Allegretto",
+     "about": "「牧羊人之歌，暴风雨后的喜悦与感恩」。F 大调，从单簧管的牧歌开始，逐渐展开成一首赞美诗。结构上借鉴了田园牧歌的传统，尾声拉得很长，情绪是安静的满足，不是狂欢。"
+    }
+   ]
+  },
+  {
+   "id": "mozart-k525",
+   "composer": "莫扎特 Mozart",
+   "title": "G 大调弦乐小夜曲 K.525",
+   "aka": [
+    "Eine kleine Nachtmusik",
+    "一首小夜曲",
+    "Serenade K.525"
+   ],
+   "match": [
+    "k\\.?\\s*525",
+    "eine kleine nachtmusik",
+    "一首小夜曲",
+    "弦乐小夜曲"
+   ],
+   "about": "1787 年 8 月写于维也纳，是莫扎特最后一首小夜曲，也是他最有名的作品之一。原为弦乐五重奏配置——两个小提琴、中提琴、大提琴加低音提琴，后来习惯以弦乐队演奏。莫扎特自己的目录里记了五个乐章，但手稿只留下四个，第二乐章的小步舞曲早已散失。音乐不复杂，难在分寸：速度一快就轻浮，一慢就散。",
+   "movements": [
+    {
+     "n": 1,
+     "name": "Allegro",
+     "about": "G 大调奏鸣曲式，开头的「号角式」上行三和弦是全曲的标志。呈示部两个主题一刚一柔，发展部很短，主要靠切分节奏往前推。要听的是弦乐的连断与呼吸，不是速度。"
+    },
+    {
+     "n": 2,
+     "name": "Romanze. Andante",
+     "about": "C 大调浪漫曲，主题反复出现，中间的对比段落转到 c 小调，情绪忽然暗下来，再回到 C 大调。这是四个乐章里最容易演砸的一个：慢一点就腻，快一点就没有回味。"
+    },
+    {
+     "n": 3,
+     "name": "Menuetto. Allegretto",
+     "about": "G 大调小步舞曲，三拍子，中段是 D 大调的三重奏，木管式的音型写得像乡村舞曲。要的是弹性，不是庄严。"
+    },
+    {
+     "n": 4,
+     "name": "Rondo. Allegro",
+     "about": "G 大调回旋曲，主题轻快，反复回来时每次都换个配器。结尾处莫扎特把主题拉长成一段活泼的尾声，干净收住，没有多余的告别。"
+    }
+   ]
+  },
+  {
+   "id": "beethoven-sym9",
+   "match_drop": [
+    "choral"
+   ]
+  },
+  {
+   "id": "khach-piano-concerto",
+   "match_drop": [
+    "piano concerto"
+   ]
+  },
+  {
+   "id": "tchaikovsky-nutcracker-march",
+   "match_drop": [
+    "\\\\bmarch\\\\b"
+   ]
+  },
+  {
+   "id": "khach-gayaneh",
+   "match_drop": [
+    "mountaineer|young kurds|carpet|noune|ayeshe|armen"
+   ]
+  }
+ ],
+ "_note": "人工补丁通道：同名 albums 条目会与代理写的条目合并（这里的字段覆盖），work id 相同的 works 条目同理。用于修 track_works / match 等机器对不上的地方。",
+ "loose": [
+  {
+   "name": "卡拉扬在莫斯科曲目.txt",
+   "note": "《卡拉扬在莫斯科》压缩包的手抄曲目单，三卷：第一卷贝多芬（科里奥兰序曲、第五、第六）；第二卷巴赫第三号勃兰登堡与肖斯塔科维奇第十；第三卷莫扎特 K.334 与理查·施特劳斯《英雄生涯》，注明 1969 年 5 月莫斯科音乐学院大音乐厅。"
+  }
+ ]
+}

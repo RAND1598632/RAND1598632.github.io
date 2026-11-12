@@ -1,0 +1,22 @@
+# 开发时的临时产物
+docs/_dev.html
+docs/_preview.html
+docs/_shot*.png
+_tmp_*
+_preview.html
+_snippet.html
+__pycache__/
+
+# 扫描结果含本机文件夹名与体积，只在本机用
+data/inventory.json
+
+# 封面（--covers 生成，版权素材，不提交）
+docs/assets/
+
+# 旧版 HTML 只在本机留档；每次发布的版本本身在 git 历史里
+archive/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store

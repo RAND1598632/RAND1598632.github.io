@@ -1573,10 +1573,11 @@ def main():
     w('<p>每张唱片一节，固定结构：<b>元信息 → 一句话定位 → 版本详解（录音与阵容 / 版本与转制 / 听感与特色 / 收藏与使用）'
       '→ 同曲对照 → 曲目与逐曲讲解</b>。曲目按作品分组，同一部作品的所有乐章连在一起，'
       '作品说明在组头，乐章讲解跟在每一轨下面。</p>')
-    w('<p>每节右上角是封面位：<b>本仓库不收录唱片封面</b>（那是唱片公司的版权素材），'
-      '改用一条按作曲家取色的排版书脊占位；在本地想看图可以 <code>python build.py --covers</code>，'
-      '但别把生成出来的 <code>docs/assets</code> 推上公开仓库。'
-      '章节锚点用专辑名的哈希，所以这份文件重新生成后，旧的链接依然有效。</p>')
+    if not PUBLIC:
+        w('<p>每节右上角是封面位：<b>本仓库不收录唱片封面</b>（那是唱片公司的版权素材），'
+          '改用一条按作曲家取色的排版书脊占位；在本地想看图可以 <code>python build.py --covers</code>，'
+          '但别把生成出来的 <code>docs/assets</code> 推上公开仓库。'
+          '章节锚点用专辑名的哈希，所以这份文件重新生成后，旧的链接依然有效。</p>')
 
     if not PUBLIC:
         w('<details style="margin:16px 0 0"><summary>这本目录是怎么生成的 / 以后怎么更新</summary>'
@@ -1684,8 +1685,11 @@ def main():
 
     # 更新记录
     w('<h2 id="changelog">更新记录</h2>')
-    w('<p style="font-size:13.5px;color:#6b635b">这份 HTML 每次重建都会升版本号，旧版整份留在 '
-      '<code>archive\\\\</code> 里。下面的表格是最近几次的变更。</p>')
+    if PUBLIC:
+        w('<p style="font-size:13.5px;color:#6b635b">下面是最新的几次更新。</p>')
+    else:
+        w('<p style="font-size:13.5px;color:#6b635b">这份 HTML 每次重建都会升版本号，旧版整份留在 '
+          '<code>archive\\\\</code> 里。下面的表格是最近几次的变更。</p>')
     hist = state.get('history', [])[:]
     if not args.dev:
         hist = [{'version': ver, 'ts': now_s, 'note': args.note or '自动重建',
@@ -1721,11 +1725,16 @@ def main():
     w('</table></div>')
 
     # 页脚
-    w(f'<footer>本文件由 <code>tools\\\\scan.py</code>（扫描）+ <code>build.py</code>（渲染）'
-      f'自动生成；内容知识存在 <code>data\\\\knowledge\\*.json</code>，改 JSON 后重跑 build.py 即可。'
-      f'<br>版本 v{ver}　·　{now_s}　·　专辑 {len(albums)}　·　音轨 {tot_tracks}　·　'
-      f'作品条目 {len(works)}（乐章 {mv_total}）　·　文字内容为本目录自撰，'
-      f'不含唱片封面等版权素材</footer>')
+    foot = (f'版本 v{ver}　·　{now_s}　·　专辑 {len(albums)}　·　音轨 {tot_tracks}　·　'
+            f'作品条目 {len(works)}（乐章 {mv_total}）')
+    if PUBLIC:
+        w(f'<footer>{foot}<br>文字内容为本目录自撰，不含唱片封面等版权素材。</footer>')
+    else:
+        w(f'<footer>本文件由 <code>tools\\\\scan.py</code>（扫描）+ <code>build.py</code>（渲染）'
+          f'自动生成；内容知识存在 <code>data\\\\knowledge\\*.json</code>，改 JSON 后重跑 build.py 即可。'
+          f'<br>版本 v{ver}　·　{now_s}　·　专辑 {len(albums)}　·　音轨 {tot_tracks}　·　'
+          f'作品条目 {len(works)}（乐章 {mv_total}）　·　文字内容为本目录自撰，'
+          f'不含唱片封面等版权素材</footer>')
     # 搜索索引（推荐框用）
     idx = {'w': [], 'c': [], 'a': []}
     for wid, idxs in work_index.items():

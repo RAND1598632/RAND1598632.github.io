@@ -1,6 +1,16 @@
 {
- "version": 3,
+ "version": 4,
  "history": [
+  {
+   "version": 4,
+   "ts": "2026-11-12 15:31",
+   "note": "阅读版：去掉写给作者自己的操作说明（--covers、锚点、重建/归档等）",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "tracks": 3404,
+   "albums": 123
+  },
   {
    "version": 3,
    "ts": "2026-11-12 15:28",

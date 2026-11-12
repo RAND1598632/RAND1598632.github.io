@@ -74,12 +74,39 @@
    "title_display": "俄苏歌曲合集（红军歌舞团 / 俄罗斯民歌 / 帕赫穆托娃）"
   },
   {
-   "name": "[_DVD]",
-   "title_display": "影像资料（DVD-Video 三场实况）"
-  },
-  {
    "name": "[_解释]",
    "title_display": "库内说明文档"
+  },
+  {
+   "name": "Eagles - Hotel California (Live From Hell Freezes Over)",
+   "composer": "Eagles（Henley / Frey / Walsh / Felder / Schmit）",
+   "performer": "Eagles（Don Henley、Glenn Frey、Joe Walsh、Don Felder、Timothy B. Schmit）",
+   "recorded": "1994-04",
+   "label": "Geffen",
+   "edition": "1994 年 MTV Unplugged 现场录像中的一曲",
+   "oneliner": "《加州旅馆》1994 年不插电现场的单曲影像，双吉他对答那一段是全部价值",
+   "version_notes": [
+    {
+     "h": "录音与阵容",
+     "t": "1994 年 4 月为 MTV 录制的《Hell Freezes Over》复出演唱会，地点在伯班克的华纳兄弟片场。这一曲是全场最后加演的段落，乐队编制加了一支弦乐组与四位和声。"
+    },
+    {
+     "h": "版本与转制",
+     "t": "这是那场演唱会的单曲影像，不是整场。与 1976 年的录音室版相比，编曲换成了尼龙弦吉他的前奏，速度更慢，结尾的双吉他对答比原版长出一倍多。"
+    },
+    {
+     "h": "听感与特色",
+     "t": "看点在画面：Frey 与 Walsh 面对面坐着交换乐句，镜头很少切，观众席几乎看不见。声音是当年的现场扩声直接收录，低频比后来的重制版薄一些，但人声位置很靠前。"
+    },
+    {
+     "h": "收藏与使用",
+     "t": "当单曲影像看即可，想听这场演出还是找整场的版本。画质是 1990 年代录像带水平，别指望高清。"
+    }
+   ],
+   "rating": 3,
+   "tags": [
+    "现场实况"
+   ]
   }
  ],
  "works": [
@@ -226,6 +253,13 @@
    "id": "khach-gayaneh",
    "match_drop": [
     "mountaineer|young kurds|carpet|noune|ayeshe|armen"
+   ]
+  },
+  {
+   "id": "bizet-carmen",
+   "match": [
+    "\\bcarmen\\b",
+    "卡门"
    ]
   }
  ],

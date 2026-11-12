@@ -344,6 +344,46 @@ ISO_RANGE_RE = re.compile(r'nos?\.?\s*(\d{1,2})\s*[-–]\s*(\d{1,2})', re.I)
 ISO_SINGLE_RE = re.compile(r'(?:nos?\.?|nr\.?)\s*(\d{1,2})\b', re.I)
 
 
+PROGRAM_LINE_RE = re.compile(r'^\s*(\d{1,2})\s*[.．、)）]\s*(.+?)\s*$')
+
+
+def parse_program_txt(path):
+    """读「节目单.txt」这类手写曲目单：每行以 1．/ 2. 开头"""
+    try:
+        txt = decode_text(open(path, 'rb').read(), '')
+    except Exception:
+        return []
+    tracks = []
+    for ln in txt.splitlines():
+        m = PROGRAM_LINE_RE.match(ln.strip())
+        if m:
+            title = m.group(2).strip()
+            if title and len(title) <= 80:
+                tracks.append({'no': len(tracks) + 1, 'title': title, 'duration': None})
+    return tracks if len(tracks) >= 5 else []
+
+
+def find_program_txt(dirpath):
+    """在目录里找节目单：优先名字带「节目单/曲目/tracklist」的 txt"""
+    cands = []
+    for dp, dns, fns in os.walk(dirpath):
+        if os.path.relpath(dp, dirpath).count(os.sep) > 1:
+            dns[:] = []
+            continue
+        for fn in fns:
+            if fn.lower().endswith('.txt'):
+                cands.append(os.path.join(dp, fn))
+    SKIP = re.compile(r'歌词|libretto|lyric|译本|对照|对白|字幕|说明|readme', re.I)
+    cands = [p for p in cands if not SKIP.search(os.path.basename(p))]
+    cands.sort(key=lambda p: (0 if re.search(r'节目单|曲目|track|program', os.path.basename(p), re.I)
+                              else 1, len(p)))
+    for p in cands:
+        t = parse_program_txt(p)
+        if t:
+            return t
+    return []
+
+
 def infer_titles_from_name(text):
     """从「Symphonies Nos.1&2」「Symphonies 6 & 9」「Symphony No.9」这类名字里
     推出可匹配的曲名；实在没有编号就原样返回。"""
@@ -358,9 +398,16 @@ def infer_titles_from_name(text):
             break
         t = t2
     t = re.sub(r'\s{2,}', ' ', t).strip(' -–')
-    # 像「演出者一、演出者二 - 作曲家 作品 - 排练」这种超长串，只留最后一段
-    if len(t) > 70 and ' - ' in t:
-        t = t.split(' - ')[-1].strip(' -–')
+
+    # 一张碟里有两三部作品时，按分号拆开，各推一条
+    if ';' in t or '；' in t:
+        parts = [p.strip(' -–') for p in re.split(r'[;；]', t)]
+        parts = [p for p in parts if len(p) >= 8]
+        if len(parts) >= 2:
+            out = []
+            for p in parts:
+                out.extend(infer_titles_from_name(p))
+            return out or [t]
 
     m = ISO_PAIRS_RE.search(t)
     if m:
@@ -383,16 +430,12 @@ def infer_titles_from_name(text):
         first = re.search(r'(?<![\d\u4e00-\u9fff])\d{1,2}(?![\d])', t)
         base = t[:first.start()].strip(' -–') or t
         return [f'{base} No.{n}' for n in nums]
-    # 没有编号：如果有「演出者 - 作品」这种结构，取最后一段当标题，别把整串人名塞进目录
-    if ' - ' in t:
-        tail = t.split(' - ')[-1].strip()
-        if len(tail) >= 4:
-            t = tail
     return [t] if t else []
 
 
-def derive_album(name, root, b):
+def derive_album(name, root, b, store_path=None, parent=None, allow_program=True):
     """把原始文件列表整理为 碟/轨 结构"""
+    store = store_path or name
     audio = sorted(b['audio'], key=lambda x: natkey(x['path']))
     for a in audio:
         a['tags'] = read_tags(os.path.join(root, a['path']))
@@ -455,7 +498,7 @@ def derive_album(name, root, b):
             tracks.append({'no': t['no'], 'title': t['title'], 'performer': t['performer'],
                            'index': t['index'], 'duration': dur, 'spec': img['tags'].get('spec', ''),
                            'tags': {}, 'image': True})
-        return {'dir': d, 'label': disc_label(d, name), 'image': True,
+        return {'dir': d, 'label': disc_label(d, store), 'image': True,
                 'image_path': img['path'], 'image_size': img['size'],
                 'image_duration': img['tags'].get('duration'), 'cue': pc['cue_path'],
                 'cue_comment': pc['comment'], 'cue_title': pc['title'],
@@ -506,7 +549,7 @@ def derive_album(name, root, b):
                            'composer': tg.get('composer', ''), 'duration': tg.get('duration'),
                            'spec': tg.get('spec', ''), 'path': a['path'], 'size': a['size'],
                            'tags': {k: v for k, v in tg.items() if k not in ('spec',)}, 'image': False})
-        discs.append({'dir': d, 'label': disc_label(d, name), 'image': False,
+        discs.append({'dir': d, 'label': disc_label(d, store), 'image': False,
                       'tracks': tracks})
     # 3) 只有 ISO 镜像的目录：尽量把镜像里的曲目挖出来
     #    优先用 sacd_extract 的碟信息（Track Count / Title[n] / Duration），
@@ -572,17 +615,33 @@ def derive_album(name, root, b):
         discs.append({'dir': d, 'label': disc_label(d, name), 'image': False, 'iso_disc': True,
                       'iso_files': [x['name'] for x in items],
                       'tracks': tracks, **disc_extra})
-    # 只有影像/蓝光、没有任何音轨的专辑：按专辑名推断里面装的是什么
+    # 只有影像/蓝光、没有任何音轨的专辑
     if not discs and b['video']:
-        guess = infer_titles_from_name(name)
-        tracks = [{'no': i, 'title': g, 'performer': '', 'duration': None,
-                   'spec': '蓝光/影像内曲目', 'tags': {'src': 'name', 'from': name},
-                   'image': False, 'inferred': True}
-                  for i, g in enumerate(guess, 1)]
-        streams = [v for v in b['video'] if os.path.splitext(v['name'])[1].lower() in ('.m2ts', '.vob', '.ts')]
-        discs.append({'dir': name, 'label': '蓝光/影像（整段）', 'image': False, 'iso_disc': True,
-                      'iso_files': [v['name'] for v in streams][:12], 'tracks': tracks,
-                      'cue_title': '', 'cue_comment': 'BD'})
+        prog = find_program_txt(os.path.join(root, store)) if allow_program else []
+        if prog:
+            tracks = [{'no': t['no'], 'title': t['title'], 'performer': '', 'duration': None,
+                       'spec': '节目单', 'tags': {'src': 'program'}, 'image': False,
+                       'inferred': True} for t in prog]
+            streams = [v for v in b['video']
+                       if os.path.splitext(v['name'])[1].lower() in ('.m2ts', '.vob', '.ts')]
+            discs.append({'dir': store, 'label': '整盘影像（节目单）', 'image': False,
+                          'iso_disc': True, 'iso_files': [v['name'] for v in streams][:12],
+                          'tracks': tracks, 'cue_title': '', 'cue_comment': 'PROGRAM'})
+            guess = None
+        else:
+            guess = infer_titles_from_name(name)
+        if guess is None:
+            guess = []
+        if guess:
+            tracks = [{'no': i, 'title': g, 'performer': '', 'duration': None,
+                       'spec': '蓝光/影像内曲目', 'tags': {'src': 'name', 'from': name},
+                       'image': False, 'inferred': True}
+                      for i, g in enumerate(guess, 1)]
+            streams = [v for v in b['video']
+                       if os.path.splitext(v['name'])[1].lower() in ('.m2ts', '.vob', '.ts')]
+            discs.append({'dir': store, 'label': '蓝光/影像（整段）', 'image': False,
+                          'iso_disc': True, 'iso_files': [v['name'] for v in streams][:12],
+                          'tracks': tracks, 'cue_title': '', 'cue_comment': 'BD'})
 
     # 未入碟的音频（理论上不该有）
     used = set()
@@ -618,7 +677,7 @@ def derive_album(name, root, b):
             specs[sp] = specs.get(sp, 0) + 1
     size = sum(x['size'] for k in ('audio', 'iso', 'video') for x in b[k])
     return {
-        'name': name, 'path': name, 'kind': 'album',
+        'name': name, 'path': store, 'kind': 'album', 'group': parent,
         'discs': discs,
         'tracks': all_tracks,
         'stats': {'n_audio': len(b['audio']), 'n_tracks': len(all_tracks), 'n_discs': len(discs),
@@ -655,7 +714,38 @@ def main():
                                          'n_art': 0, 'n_doc': 0, 'n_junk': 0},
                                'iso': [], 'video': [], 'art': [], 'doc': [], 'junk': [], 'cue_sheets': []})
                 continue
-            albums.append(derive_album(de.name, root, b))
+            # 影像合集（例如 [_DVD]）：没有音频、没有镜像，但片子按子目录分装
+            subs = []
+            try:
+                subs = sorted(d for d in os.listdir(de.path)
+                              if os.path.isdir(os.path.join(de.path, d)) and not d.startswith('.'))
+            except OSError:
+                pass
+            is_container = (not b['audio'] and not b['iso'] and b['video'] and len(subs) >= 3)
+            if is_container:
+                for sd in subs:
+                    sub_path = os.path.join(de.path, sd)
+                    b2 = collect(sub_path, root)
+                    if not any(b2[k] for k in b2):
+                        continue
+                    alb = derive_album(sd, root, b2, store_path=os.path.join(de.name, sd),
+                                       parent=de.name)
+                    albums.append(alb)
+                    print('  ok', de.name, '/', sd, flush=True)
+                # 合集根目录上散落的东西（比如一个单独的 .vob）单独成一条
+                top_video = [v for v in b['video'] if os.path.dirname(v['path']) == de.name]
+                if top_video:
+                    b3 = {k: [] for k in b}
+                    b3['video'] = top_video
+                    if len(top_video) == 1:
+                        solo = os.path.splitext(top_video[0]['name'])[0]
+                    else:
+                        solo = de.name + ' · 其余影像'
+                    alb = derive_album(solo, root, b3, store_path=de.name,
+                                       parent=de.name, allow_program=False)
+                    albums.append(alb)
+                continue
+            albums.append(derive_album(de.name, root, b, store_path=de.name))
             print('  ok', de.name, flush=True)
         else:
             ext = os.path.splitext(de.name)[1].lower()

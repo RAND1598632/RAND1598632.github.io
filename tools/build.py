@@ -456,7 +456,8 @@ def find_work_by_number(works, title, pref=None):
         if ok:
             return ok[0]
         return None          # 作曲家对不上就不要，宁可认不出
-    return cands[0]
+    # 没有作曲家线索而又有多个同号作品（例如三首「第九交响曲」）时不要瞎猜
+    return cands[0] if len(cands) == 1 else None
 
 
 def group_tracks(works, tracks, hints=None, wmap=None, pref=None, anchor=None):
@@ -1344,7 +1345,10 @@ def render_album(idx, al, kn, works, album_order, work_index, wmap=None):
                         if mv.get('n'):
                             ti = f'<span style="color:#a09789">乐章 {esc(str(mv.get("n")))}</span>　' + ti
                     else:
-                        ti = esc(ti)
+                        if t.get('inferred') and len(ti) > 78:
+                            ti = esc(ti[:76]) + '…'
+                        else:
+                            ti = esc(ti)
                     _cls = 'mv inf' if t.get('inferred') else 'mv'
                     w(f'<tr class="{_cls}"><td class="no">{esc(t.get("no"))}</td><td class="ti">{ti}</td>'
                       f'<td class="du">{fmt_dur(t.get("duration"))}</td></tr>')
@@ -1370,6 +1374,9 @@ def render_album(idx, al, kn, works, album_order, work_index, wmap=None):
 
     # 影像 / 蓝光
     vids = al.get('video') or []
+    if vids and PUBLIC:
+        w(f'<p class="files">影像资料：{len(vids)} 段。</p>')
+        vids = []
     if vids:
         w('<h4>影像与蓝光载体</h4><div class="files">')
         for v in sorted(vids, key=lambda x: -x['size'])[:12]:

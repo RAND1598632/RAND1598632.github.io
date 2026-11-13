@@ -13,6 +13,9 @@ data/inventory.json
 # 封面（--covers 生成，版权素材，不提交）
 docs/assets/
 
+# 给自己的待办，不发布
+待办.md
+
 # 旧版 HTML 只在本机留档；每次发布的版本本身在 git 历史里
 archive/
 

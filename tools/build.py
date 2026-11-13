@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
+r"""
 把 inventory.json + 知识库 JSON 渲染成一本单文件 HTML 目录（GitHub Pages 版）。
 
 用法：
@@ -52,6 +52,30 @@ STATE = os.path.join(DATA, 'state.json')
 # 公开版：页面里不出现任何本机路径/文件名/占用空间。--local 可切回带文件信息的版本
 PUBLIC = True
 LOG = os.path.join(CDIR, '更新日志.md')
+
+
+# ---------------------------------------------------------------- 标志（矢量，内联）
+# 直角方形：黄底 + 黑描边的方框与倒三角，比例取自原图（500×500 画布）
+BOX, TRI = '<rect x="88.5" y="148.5" width="197" height="277"/>', '167.4,73.5 422.1,73.5 294.4,407.5'
+IBOX, ITRI = '<rect x="97" y="157" width="180" height="260"/>', '175,80 415,80 295,400'
+LOGO_MODE = os.environ.get('LOGO_MODE', 'both')       # both / bar / mast / none
+
+
+def svg_mark(px=0, stroke=19, box=BOX, tri=TRI, fg='#000000', bg='#FFC90E', cls=''):
+    size = f' width="{px}" height="{px}"' if px else ''
+    c = f' class="{cls}"' if cls else ''
+    return (f'<svg xmlns="http://www.w3.org/2000/svg"{c}{size} viewBox="0 0 500 500" '
+            f'aria-hidden="true" focusable="false">'
+            f'<rect width="500" height="500" fill="{bg}"/>'
+            f'<g fill="none" stroke="{fg}" stroke-width="{stroke}" stroke-miterlimit="4">'
+            f'{box}<polygon points="{tri}"/></g></svg>')
+
+
+def favicon(online):
+    """标签页图标：在线黄底黑图，离线黑底黄图——看一眼就知道开的是哪一版"""
+    fg, bg = ('#000000', '#FFC90E') if online else ('#FFC90E', '#141414')
+    return 'data:image/svg+xml,' + urllib.parse.quote(
+        svg_mark(0, 34, IBOX, ITRI, fg, bg), safe='')
 
 # ---------------------------------------------------------------- 小工具
 def esc(t):
@@ -575,6 +599,16 @@ header.top{position:sticky;top:0;z-index:20;background:rgba(251,249,245,.96);
  backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
 header.top .bar{max-width:1080px;margin:0 auto;padding:9px 22px;display:flex;gap:14px;align-items:center}
 header.top b{font-size:15px;letter-spacing:.04em;white-space:nowrap}
+.brand{display:inline-flex;align-items:center;gap:9px;color:inherit;border:0;text-decoration:none;padding:0}
+.brand:hover{background:none;border:0}
+.brand svg{flex:none;border-radius:3px}
+.brand .tx{border-bottom:1px solid transparent}
+.brand:hover .tx{border-bottom-color:var(--acc)}
+.mast{display:flex;align-items:center;gap:16px;margin:34px 0 6px}
+.mast h1{margin:0}
+.mast svg{flex:none;border-radius:4px;box-shadow:0 1px 2px rgba(70,50,20,.18)}
+@media(max-width:640px){.brand svg{display:none}.mast svg{width:50px;height:50px}}
+[id]{scroll-margin-top:80px}
 header.top input{flex:1;min-width:120px;padding:7px 11px;border:1px solid var(--line);border-radius:6px;
  background:#fff;font:inherit;font-size:14px;color:var(--fg)}
 header.top .hint{font-size:12.5px;color:var(--dim);white-space:nowrap}
@@ -599,7 +633,7 @@ p{margin:.55em 0}
 .toc li .n{color:var(--dim);font-size:12.5px;display:inline-block;width:2.1em;text-indent:0}
 .toc li .d{display:block;font-size:13px;color:var(--dim);text-indent:0;padding-left:2.1em}
 .album{background:var(--card);border:1px solid var(--line);border-radius:10px;
- padding:20px 24px 24px;margin:26px 0;scroll-margin-top:64px}
+ padding:20px 24px 24px;margin:26px 0}
 .album h2.title{font-size:22px;border:0;margin:0 0 4px;padding:0;line-height:1.35}
 .album .num{color:var(--acc);font-size:13px;letter-spacing:.12em;font-weight:600}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px}
@@ -1527,13 +1561,18 @@ def main():
     removed = [n for n in old_fp if n not in new_fp]
     changed = [n for n in new_fp if n in old_fp and old_fp[n] != new_fp[n]]
 
+    favicon_uri = favicon(PUBLIC)
+    mark_bar = svg_mark(26, cls='mk') if LOGO_MODE in ('both', 'bar') else ''
+    mark_mast = svg_mark(66, cls='mk') if LOGO_MODE in ('both', 'mast') else ''
     H = []
     w = H.append
     w('<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">')
     w('<meta name="viewport" content="width=device-width,initial-scale=1">')
+    w(f'<link rel="icon" type="image/svg+xml" href="{favicon_uri}">')
     w(f'<title>音乐库目录 v{ver} · {len(albums)} 张</title>')
     w(f'<style>{CSS}</style></head><body id="top">')
-    w('<header class="top"><div class="bar"><b>音乐库目录</b>'
+    w('<header class="top"><div class="bar">'
+      f'<a class="brand" href="#top" title="回到顶部">{mark_bar}<b>音乐库目录</b></a>'
       '<input id="q" type="search" placeholder="搜索：作曲家 / 曲名 / 指挥 / 版本关键词…（按 / 聚焦）" autocomplete="off">'
       '<button class="ftbtn" id="ft" type="button" title="切换衬线（宋）/ 无衬线（雅黑）">字体：宋</button>'
       '<span class="hint" id="hit"></span><div id="sug"></div></div></header>'
@@ -1541,7 +1580,7 @@ def main():
       '<a href="#top" title="回到文件开头">↑ 顶部</a></nav><div class="wrap">')
 
     # 封面区
-    w(f'<h1>音乐库目录</h1>')
+    w(f'<div class="mast">{mark_mast}<h1>音乐库目录</h1></div>')
     w(f'<div class="sub">版本 <b>v{ver}</b>　·　生成于 {now_s}'
       f'　·　<a href="#changelog">更新记录</a>　·　<a href="#appendix">附录</a></div>')
     w('<div class="cards">')

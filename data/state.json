@@ -1,6 +1,26 @@
 {
- "version": 4,
+ "version": 6,
  "history": [
+  {
+   "version": 6,
+   "ts": "2026-11-13 18:22",
+   "note": "窄屏时吸顶栏不显示图标，搜索框留足宽度",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "tracks": 3404,
+   "albums": 123
+  },
+  {
+   "version": 5,
+   "ts": "2026-11-13 18:19",
+   "note": "标志：矢量内联图标、在线/离线标签页图标、标题点按回顶部、锚点让开吸顶栏",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "tracks": 3404,
+   "albums": 123
+  },
   {
    "version": 4,
    "ts": "2026-11-12 15:31",

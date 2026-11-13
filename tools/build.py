@@ -58,7 +58,7 @@ LOG = os.path.join(CDIR, '更新日志.md')
 # 直角方形：黄底 + 黑描边的方框与倒三角，比例取自原图（500×500 画布）
 BOX, TRI = '<rect x="88.5" y="148.5" width="197" height="277"/>', '167.4,73.5 422.1,73.5 294.4,407.5'
 IBOX, ITRI = '<rect x="97" y="157" width="180" height="260"/>', '175,80 415,80 295,400'
-LOGO_MODE = os.environ.get('LOGO_MODE', 'both')       # both / bar / mast / none
+LOGO_MODE = os.environ.get('LOGO_MODE', 'mast')       # mast（默认）/ both / bar / none
 
 
 def svg_mark(px=0, stroke=19, box=BOX, tri=TRI, fg='#000000', bg='#FFC90E', cls=''):

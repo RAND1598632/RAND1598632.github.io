@@ -1,6 +1,16 @@
 {
- "version": 6,
+ "version": 7,
  "history": [
+  {
+   "version": 7,
+   "ts": "2026-11-13 18:50",
+   "note": "标志只放页首（吸顶栏留白给搜索框）",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "tracks": 3404,
+   "albums": 123
+  },
   {
    "version": 6,
    "ts": "2026-11-13 18:22",

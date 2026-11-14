@@ -582,7 +582,8 @@ CSS = r"""
 :root{--fg:#1c1a17;--dim:#6b635b;--line:#e2dcd3;--bg:#fbf9f5;--card:#fff;--acc:#8c2f1e;
 --tag:#f0e9df;--code:#f4f1ec;--hi:#fff6d8;}
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
+/* 去掉全局平滑滚动：整本近 5 万像素高，平滑滚动一旦被布局变化打断就会停在半路，
+   锚点跳转会落到词条中间。改成瞬时跳转，位置才准 */
 /* 字体策略：西文/西里尔交给 Times New Roman（宋体的俄文字形很难看），
    汉字走「思源宋 → 华文宋 → 方正书宋 → 宋体」——前三个都是轮廓字体，小字号没有宋体的点阵锯齿 */
 :root{--serif:"Times New Roman",Times,"Nimbus Roman","Noto Serif SC","Source Han Serif SC",
@@ -768,12 +769,28 @@ JS = r"""
  function go(anchor){
    var el=document.getElementById(anchor);
    if(!el) return;
-   el.scrollIntoView({behavior:'smooth',block:'start'});
-   el.classList.remove('flash');
-   void el.offsetWidth;
-   el.classList.add('flash');
-   setTimeout(function(){el.classList.remove('flash');},2200);
+   var bar=document.querySelector('header.top');
+   var off=(bar?bar.offsetHeight:0)+16;       // 让开吸顶栏再留一点气
+   var y=el.getBoundingClientRect().top+window.pageYOffset-off;
+   window.scrollTo(0, Math.max(0, Math.round(y)));
+   if(history.replaceState) history.replaceState(null,'','#'+anchor);
+   var box=el.closest?el.closest('.album'):null;
+   if(!box) box=el;
+   box.classList.remove('flash');
+   void box.offsetWidth;
+   box.classList.add('flash');
+   setTimeout(function(){box.classList.remove('flash');},2200);
  }
+ // 站内锚点全部走同一条路：自己算位置、瞬时跳，不依赖 scroll-margin，也不靠平滑滚动
+ document.addEventListener('click',function(e){
+   if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;
+   var a=e.target.closest?e.target.closest('a[href^="#"]'):null;
+   if(!a) return;
+   var id=a.getAttribute('href').slice(1);
+   if(!id||!document.getElementById(id)) return;
+   e.preventDefault();
+   go(id);
+ });
 
  function applyFilter(q){
    filterOn=!!q;
